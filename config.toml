@@ -7,7 +7,7 @@ languageCode = "de-DE"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 author = "Tobias Weiss"
 title = "Tobias Weiss"
