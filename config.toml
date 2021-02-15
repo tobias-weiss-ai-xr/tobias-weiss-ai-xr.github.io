@@ -1,0 +1,62 @@
+## Basic Configuration
+
+baseurl = "https://tobiasweede.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "de-DE"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Tobias Weiss"
+title = "Tobias Weiss"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-tobiasweede-github-io" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Tobias Weiss"
+intro = "(IT) enthusiast"
+description = "Previously @Borlönge, SE; Now @Jena, DE;  Going to @Tallinn, EE"
+authorimage = "me_wanted_big.png"
+dateformat = "2 Jan 2021"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal page"
+keywords = "student,sportsman,biker,guitarist"
+
+## Social Accounts
+[params.social]
+github = "tobiasweede"
+#instagram = "<username>"
+#linkedin = "<username>"
+#twitter = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "spam@tobias-weiss.org"
+
+## Extras
+[params.extra]
+copyright = "© 2021. Tobias Weiss. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
