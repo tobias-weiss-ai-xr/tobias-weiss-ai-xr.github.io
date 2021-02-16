@@ -7,7 +7,7 @@ slug = ""
 tags = ["about"]
 title = "About"
 
-showpagemeta = false
+showpagemeta = true
 +++
 
 Tobias is a nice guy.
