@@ -25,7 +25,7 @@ author = "Tobias Weiss"
 intro = "(IT) enthusiast"
 description = "Previously @Borlönge, SE; Now @Jena, DE;  Going to @Tallinn, EE"
 authorimage = "me_wanted_big.png"
-dateformat = "2 Jan 2021"
+dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
