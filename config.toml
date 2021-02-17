@@ -5,10 +5,6 @@ builddrafts = false
 canonifyurls = false
 languageCode = "de-DE"
 
-# allow raw html
-[markup.goldmark.renderer]
-unsafe= true
-
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"
@@ -61,11 +57,11 @@ hightlightjs = true
     url = "/blog/"
 [[menu.main]]
     name = "thesis diary"
-    weight = 200
+    weight = 110
     identifier = "thesis"
     url = "/thesis-diary/"
 [[menu.main]]
     name = "about"
     identifier = "about"
-    weight = 300
+    weight = 200
     url = "/about/"
