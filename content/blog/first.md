@@ -10,15 +10,21 @@ title = "Goodbye Typo, hello Hugo!"
 description = "A short note about personal web sites"
 +++
 
-It is time to retire my old Typo3 website. It was up for over 10 years now.
-I still kinda like the old green style. But I want to become a bit more serious as I grew up over this period - at least a little bit.
+It is time to retire my old Typo3 website.
+It was up for over 10 years now.
+I still kinda like the old green style.
+But I want to become a bit more serious as I grew up over this period - at least a little bit.
 
-To keep it in good memories, let me keep a picture:
-
+Let me take a screenshot to keep the good memories:
 ![Old Typo3 Page](img/old_typo3_website_small.png)
 
-I replace it with this fancy new hugo blog. I think it is a good tech choice for this kind of website. Hopefully it will also last longer than 10 years.
+I replace it with this fancy new hugo blog.
+I think it is a good tech choice for this kind of website.
+Hopefully it will also last longer than 10 years.
 
-The first issue can be viewed on this page. Images can not be scaled with markdown syntax. I also do not know how the curly braces syntax works. So as it is fun to learn new things I am curious to dig into it!
+The first issue can be viewed on this page.
+Images can not be scaled with markdown syntax.
+I also do not know how the curly braces syntax works.
+So as it is fun to learn new things I am curious to dig into it!
 
 
