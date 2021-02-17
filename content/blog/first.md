@@ -1,13 +1,13 @@
 +++
 categories = ["personal","IT","propaganda"]
-comments = false
-date = "2021-02-15T00:00:00-01:00"
-showpagemeta = true
-showcomments = true
 slug = "hello-hugo"
 tags = ["hugo", "typo3"]
 title = "Goodbye Typo, hello Hugo!"
 description = "A short note about personal web sites"
+date = "2021-02-15T00:00:00-01:00"
+showpagemeta = true
+comments = false
+showcomments = false
 +++
 
 It is time to retire my old Typo3 website.
