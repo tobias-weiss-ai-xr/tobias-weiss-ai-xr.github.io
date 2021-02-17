@@ -56,7 +56,12 @@ hightlightjs = true
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
+    name = "thesis diary"
+    weight = 200
+    identifier = "thesis"
+    url = "/thesis-diary/"
+[[menu.main]]
     name = "about"
     identifier = "about"
-    weight = 200
+    weight = 300
     url = "/about/"
