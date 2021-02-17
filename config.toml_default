@@ -3,7 +3,7 @@
 baseurl = "https://tobiasweede.github.io/" 
 builddrafts = false
 canonifyurls = false
-languageCode = "de-DE"
+languageCode = "en-EN"
 
 # allow raw html
 [markup.goldmark.renderer]
