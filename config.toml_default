@@ -16,7 +16,7 @@ publishdir = "docs"
 author = "Tobias Weiss"
 title = "Tobias Weiss"
 
-theme = "hugo-goa"
+theme = "tobi-goa"
 
 ## Hugo Built-in Features
 disqusShortname = "https-tobiasweede-github-io" # Comment out to disable Disqus.
