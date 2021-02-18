@@ -68,15 +68,22 @@
 It was up for over 10 years now.
 I still kinda like the old green style.
 But I want to become a bit more serious as I grew up over this period - at least a little bit.</p>
-<p>Let me take a screenshot to keep the good memories:
-<img src="img/old_typo3_website_small.png" alt="Old Typo3 Page"></p>
+<p>Let me take a screenshot to keep the good memories:</p>
+<figure>
+    <img src="img/old-typo3-website.png"
+         alt="Old Typo3 Page" width="650px"/> 
+</figure>
+
 <p>I replace it with this fancy new hugo blog.
 I think it is a good tech choice for this kind of website.
 Hopefully it will also last longer than 10 years.</p>
 <p>The first issue can be viewed on this page.
-Images can not be scaled with markdown syntax.
-I also do not know how the curly braces syntax works.
-So as it is fun to learn new things I am curious to dig into it!</p>
+Images can not be scaled with markdown syntax.</p>
+<p>Turned out that hugo has a buildin figure shorthand syntax for images:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">{{&lt; <span style="color:#a6e22e">figure</span> <span style="color:#a6e22e">src</span>=<span style="color:#e6db74">&#34;img/image.png&#34;</span> <span style="color:#a6e22e">alt</span>=<span style="color:#e6db74">&#34;Description&#34;</span> <span style="color:#a6e22e">width</span>=<span style="color:#e6db74">&#34;650px&#34;</span> &gt;}}
+</code></pre></div></p>
+<p>Note that the curly braces have be escaped by <code>&lt;/* */&gt;</code>.</p>
+<p>So as it is fun to learn new things I am curious to dig into it!</p>
 
   </div>
 </section>

@@ -3,32 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tobiasweede.github.io/categories/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/graph/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/thesis-diary/hello-hugo/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/categories/it/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/categories/ml/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/networks/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/neural/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/categories/personal/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/recommender/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/systems/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/tags/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/categories/thesis/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/thesis-diary/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tobiasweede.github.io/</loc>
+    <lastmod>2021-02-18T00:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tobiasweede.github.io/about/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url>
   
   <url>
     <loc>https://tobiasweede.github.io/tags/about/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tobiasweede.github.io/categories/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tobiasweede.github.io/categories/personal/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tobiasweede.github.io/tags/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tobiasweede.github.io/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url>
   
@@ -48,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://tobiasweede.github.io/categories/it/</loc>
-    <lastmod>2021-02-15T00:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tobiasweede.github.io/categories/propaganda/</loc>
     <lastmod>2021-02-15T00:00:00-01:00</lastmod>
   </url>
@@ -64,10 +109,6 @@
   
   <url>
     <loc>https://tobiasweede.github.io/thesis-diary/02-17-21/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tobiasweede.github.io/thesis-diary/</loc>
   </url>
   
 </urlset>

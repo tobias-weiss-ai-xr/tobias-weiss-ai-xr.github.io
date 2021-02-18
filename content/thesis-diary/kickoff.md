@@ -1,5 +1,5 @@
 +++
-categories = ["personal",,"thesis","IT","ML"]
+categories = ["personal","thesis","IT","ML"]
 slug = "hello-hugo"
 tags = ["graph", "neural","networks","recommender","systems"]
 title = "Graph Neural Networks in Economic Context"

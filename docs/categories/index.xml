@@ -6,22 +6,40 @@
     <description>Recent content in Categories on Tobias Weiss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT</title>
+      <link>https://tobiasweede.github.io/categories/it/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/categories/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://tobiasweede.github.io/categories/ml/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/categories/ml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>personal</title>
       <link>https://tobiasweede.github.io/categories/personal/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 -0100</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
       
       <guid>https://tobiasweede.github.io/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IT</title>
-      <link>https://tobiasweede.github.io/categories/it/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0100</pubDate>
+      <title>thesis</title>
+      <link>https://tobiasweede.github.io/categories/thesis/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
       
-      <guid>https://tobiasweede.github.io/categories/it/</guid>
+      <guid>https://tobiasweede.github.io/categories/thesis/</guid>
       <description></description>
     </item>
     
