@@ -5,10 +5,6 @@ builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
 
-# allow raw html
-[markup.goldmark.renderer]
-unsafe= true
-
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"

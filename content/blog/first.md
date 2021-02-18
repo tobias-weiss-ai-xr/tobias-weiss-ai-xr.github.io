@@ -17,7 +17,7 @@ But I want to become a bit more serious as I grew up over this period - at least
 
 Let me take a screenshot to keep the good memories:
 
-{{< figure src="img/old_typo3_website_small.png" alt="Old Typo3 Page" width="650px" >}}
+{{< figure src="img/old-typo3-website.png" alt="Old Typo3 Page" width="650px" >}}
 
 I replace it with this fancy new hugo blog.
 I think it is a good tech choice for this kind of website.
@@ -25,15 +25,12 @@ Hopefully it will also last longer than 10 years.
 
 The first issue can be viewed on this page.
 Images can not be scaled with markdown syntax.
-So as it is fun to learn new things I am curious to dig into it!
 
 Turned out that hugo has a buildin figure shorthand syntax for images:
+{{< highlight go >}}{{</* figure src="img/image.png" alt="Description" width="650px" */>}}{{< /highlight >}}
 
-{{< highlight go >}} 
-{{</* figure src="img/image.png" alt="Description" width="650px" */>}}
-{{< /highlight >}}
+Note that the curly braces have be escaped by `</* */>`.
 
-
-
+So as it is fun to learn new things I am curious to dig into it!
 
 
