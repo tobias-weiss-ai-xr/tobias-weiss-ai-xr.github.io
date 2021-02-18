@@ -1,7 +1,7 @@
 +++
-categories = ["personal","thesis","IT","ML"]
+categories = ["personal","thesis","IT","ML", "ANN"]
 slug = "hello-hugo"
-tags = ["graph", "neural","networks","recommender","systems"]
+tags = ["graph neural networks","recommender systems", "graph theory", "machine learning", "artificial neural networks"]
 title = "Graph Neural Networks in Economic Context"
 description = "I like my thesis topic."
 date = "2021-02-18T00:00:00-01:00"
