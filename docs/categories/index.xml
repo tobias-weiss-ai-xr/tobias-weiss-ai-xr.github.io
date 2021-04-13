@@ -6,49 +6,22 @@
     <description>Recent content in Categories on Tobias Weiss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ANN</title>
-      <link>https://tobiasweede.github.io/categories/ann/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
-      
-      <guid>https://tobiasweede.github.io/categories/ann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT</title>
-      <link>https://tobiasweede.github.io/categories/it/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
-      
-      <guid>https://tobiasweede.github.io/categories/it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>https://tobiasweede.github.io/categories/ml/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
-      
-      <guid>https://tobiasweede.github.io/categories/ml/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
       <link>https://tobiasweede.github.io/categories/personal/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 -0100</pubDate>
       
       <guid>https://tobiasweede.github.io/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>thesis</title>
-      <link>https://tobiasweede.github.io/categories/thesis/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 -0100</pubDate>
+      <title>IT</title>
+      <link>https://tobiasweede.github.io/categories/it/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0100</pubDate>
       
-      <guid>https://tobiasweede.github.io/categories/thesis/</guid>
+      <guid>https://tobiasweede.github.io/categories/it/</guid>
       <description></description>
     </item>
     
