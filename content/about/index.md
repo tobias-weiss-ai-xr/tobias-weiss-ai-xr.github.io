@@ -1,5 +1,5 @@
 +++
-categories = ["personal"]
+categories = ["about","personal"]
 date = "2021-02-17T00:00:00-01:00"
 draft = false
 slug = "about"
@@ -7,14 +7,14 @@ tags = ["about"]
 title = "About"
 comments = false
 showcomments = false
-showpagemeta = true
+showpagemeta = false
 +++
 
 Hi, my name is Tobias. I was raised in a small village in south-est Germany in 1988.
 My mother tongue is Swabian, however I am also pretty familiar with German and English. 
 I also understand Swedish and French.
 
-Since my youth a thing I was really interested in was computers -- both hard and software.
+Since I can think, the thing I was really interested in was computers -- both hard and software.
 So I decided to get hands on experience as soon as possible and started an apprenticeship with Deutsche Telekom AG.
 After finishing this education I started working as an IT consultant for small and medium sized companies.
 

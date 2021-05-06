@@ -1,11 +1,11 @@
 +++
-categories = ["personal","IT","propaganda"]
-slug = "hello-hugo"
+categories = ["IT"]
+slug = "hugo"
 tags = ["hugo", "typo3"]
 title = "Goodbye Typo, hello Hugo!"
 description = "A short note about personal web sites"
 date = "2021-02-15T00:00:00-01:00"
-showpagemeta = true
+showpagemeta = false
 comments = false
 showcomments = false
 +++

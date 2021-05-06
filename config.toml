@@ -23,14 +23,14 @@ enableRobotsTXT = true
 [params]
 author = "Tobias Weiss"
 intro = "(IT) enthusiast"
-description = "Previously @Borlönge, SE; Now @Jena, DE;  Going to @Tallinn, EE"
+description = "Previously @Borlänge, SE; Now @Jena, DE;  Going to @Tallinn, EE"
 authorimage = "me_wanted_big.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Personal page"
-keywords = "student,sportsman,biker,guitarist"
+keywords = "it,guitar,biking,jogging,hugo"
 
 ## Social Accounts
 [params.social]
@@ -50,13 +50,18 @@ poweredby = false
 hightlightjs = true
 
 ## Main Menu
-#[[menu.main]]
-#    name = "blog"
-#    weight = 100
-#    identifier = "blog"
-#    url = "/blog/"
 [[menu.main]]
     name = "about"
     identifier = "about"
-    weight = 300
+    weight = 100
     url = "/about/"
+[[menu.main]]
+    name = "pgp"
+    weight = 200
+    identifier = "pgp"
+    url = "/pgp/"
+#[[menu.main]]
+#    name = "what happend to the old page?"
+#    weight = 300
+#    identifier = "hugo"
+#    url = "/hugo/"
