@@ -17,7 +17,7 @@ I was raised in a small village in south-east Germany.
 My mother tongue is Swabian, however I am also pretty familiar with German and English. 
 Swedish and French also works to some extend.
 
-IT things are also fine :). What really hooked me was and still is Linux.
+IT things are fine as well :). What really hooked me was and still is Linux.
 After school and apprenticeship I worked as system administrator.
 Nowadays, I am still maintaining some systems but most of the time goes into coding. 
 I view back of quiet a history of projects with a broad variety of tool stacks.
