@@ -20,7 +20,7 @@ Swedish and French also works to some extend.
 IT things are fine as well :). What really hooked me was and still is Linux.
 After school and apprenticeship I worked as system administrator.
 Nowadays, I am still maintaining some systems but most of the time goes into coding. 
-I view back of quiet a history of projects with a broad variety of tool stacks.
+I view back of quite a history of projects with a broad variety of tool stacks.
 
 A few years ago I decided to work on my formal education and moved to Jena, a beautiful city in Thurighia. During my studies I had the opportunity to go on a one year visit to Borlänge, Sweden. It was one of the best parts in my life so far.
 
