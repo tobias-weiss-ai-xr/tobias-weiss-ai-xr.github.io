@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tobiasweede.github.io/tags/blog/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/categories/blog/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/blog/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/categories/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/blog/first-estonian-impressions/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/categories/personal/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/tags/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/</loc>
+    <lastmod>2021-08-18T00:00:00-01:00</lastmod>
+  </url><url>
+    <loc>https://tobiasweede.github.io/blog/saxonia-bike-tour/</loc>
+    <lastmod>2021-07-15T00:00:00-01:00</lastmod>
+  </url><url>
     <loc>https://tobiasweede.github.io/about/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url><url>
@@ -11,12 +38,6 @@
     <loc>https://tobiasweede.github.io/categories/about/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url><url>
-    <loc>https://tobiasweede.github.io/categories/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://tobiasweede.github.io/categories/personal/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url><url>
     <loc>https://tobiasweede.github.io/pgp/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url><url>
@@ -24,12 +45,6 @@
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url><url>
     <loc>https://tobiasweede.github.io/categories/pgp-personal/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://tobiasweede.github.io/tags/</loc>
-    <lastmod>2021-02-17T00:00:00-01:00</lastmod>
-  </url><url>
-    <loc>https://tobiasweede.github.io/</loc>
     <lastmod>2021-02-17T00:00:00-01:00</lastmod>
   </url><url>
     <loc>https://tobiasweede.github.io/hugo/</loc>
