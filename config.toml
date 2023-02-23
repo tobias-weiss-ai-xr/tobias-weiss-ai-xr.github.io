@@ -22,7 +22,7 @@ languageCode = "en-US"
     ## Site Settings
     [params]
     author = "Tobias Weiss"
-    intro = "(IT) enthusiast"
+    intro = "XR enthusiast"
     description = "@Giessen, DE"
     authorimage = "me_wanted_big.png"
     dateformat = "Jan 2, 2006"
@@ -30,7 +30,7 @@ languageCode = "en-US"
     ## Site Meta Settings
     [params.meta]
     description = "Personal page"
-    keywords = "it,guitar,biking,jogging,hugo"
+    keywords = "it,guitar,biking,jogging,hugo,xr,ar,mr"
 
     ## Social Accounts
     [params.social]
