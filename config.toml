@@ -51,6 +51,11 @@ languageCode = "en-US"
 
     ## Main Menu
     [[menu.main]]
+        name = "xr"
+        weight = 200
+        identifier = "xr"
+        url = "/xr/"
+    [[menu.main]]
         name = "about"
         identifier = "about"
         weight = 100

@@ -29,6 +29,7 @@ Scandinavia and the Baltics remain part of me.
 I finished my master and found a placement in Giessen, Hesse.
 
 Today, I pursue my research interests as part of a graduate program.
-I am interested in cross reality (XR) which includes all kinds of augmented reality, mixed reality, mixed virtuality, and virtual reality.
+I am interested in mixed reality (XR) which includes all kinds of augmented reality and virtual reality.
 In my experiments, I combine XR with bio-sensors such as eye trackers and ECG.
 My goal is to provide user assistance in the forthcoming v-commerce domain.
+I am also curious about XR in education. See the XR section to see a few works.
