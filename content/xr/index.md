@@ -16,7 +16,7 @@ showpagemeta = false
 * Payment 12 € + 3 € Bonus.
 * Make three purchase decisions in a VR shopping environment.
 
-https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ)
+https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 
 ![Experiment registration QR code](https://tobias-weiss.org/exp-register-qr.gif)
