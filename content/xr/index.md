@@ -44,13 +44,25 @@ https://tobias-weiss.org/hello-webxr/
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
 
 ## Lernräume Colin
-* [Raum A](https://hub.link/XXX)
+* [Raum A](https://hubs.mozilla.com/scenes/B6QdFbs)
+
+![Colin Raum A](img/colin-room-a-qr.gif)
+
 * [Raum B](https://hub.link/XXX)
+
+![Colin Raum B]()
+
 * [Fragebogen Colin](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/XXXX?lang=de)
 
 ##  Xiaowen Lernräume
-* [Raum A](https://hub.link/XXX)
-* [Raum B](https://hub.link/XXX)
+* [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M)
+
+![Xiaowen Raum A](img/xiaowen-room-a-qr.gif)
+
+* [Raum B](https://hubs.mozilla.com/scenes/4DcdxGC)
+
+![Xiaowen Raum B](img/xiaowen-room-b-qr.gif)
+
 * [Fragebogen Xiaowen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/XXXX?lang=de)
 
 ## Bitcoin Proof of work vs. Proof of stake
