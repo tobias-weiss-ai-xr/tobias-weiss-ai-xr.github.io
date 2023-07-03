@@ -41,13 +41,11 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 * [Raum B](https://hubs.mozilla.com/link/yBeQVrf)
 
-![Colin Raum B](img/colin-room-a-qr.gif))
+![Colin Raum B](img/colin-room-a-qr.gif)
 
-* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=enhttps://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=enhttps://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en)
+* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en)
 
 ![Colin Fragebogen QR](img/colin-survey-qr.gif)
-
-![Colin Fr B](img/colin-room-a-qr.gif))
 
 ###  Xiaowen Lernräume
 * [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M)
