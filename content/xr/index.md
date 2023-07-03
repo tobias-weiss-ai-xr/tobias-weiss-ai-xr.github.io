@@ -35,15 +35,19 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
 
 ### Lernräume Colin
-* [Raum A](https://hubs.mozilla.com/scenes/B6QdFbs)
+* [Raum A](https://hubs.mozilla.com/link/ehrT2Bz)
 
 ![Colin Raum A](img/colin-room-a-qr.gif)
 
-* [Raum B](https://hub.link/XXX)
+* [Raum B](https://hubs.mozilla.com/link/yBeQVrf)
 
-![Colin Raum B]()
+![Colin Raum B](img/colin-room-a-qr.gif))
 
-* [Fragebogen Colin](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/XXXX?lang=de)
+* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=enhttps://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=enhttps://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en)
+
+![Colin Fragebogen QR](img/colin-survey-qr.gif)
+
+![Colin Fr B](img/colin-room-a-qr.gif))
 
 ###  Xiaowen Lernräume
 * [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M)
@@ -54,7 +58,9 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 ![Xiaowen Raum B](img/xiaowen-room-b-qr.gif)
 
-* [Fragebogen Xiaowen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/XXXX?lang=de)
+* [Xiaowen Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/695713?lang=en)
+
+![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
 
 ### Bitcoin Proof of work vs. Proof of stake
 https://hub.link/Ko49mHj
