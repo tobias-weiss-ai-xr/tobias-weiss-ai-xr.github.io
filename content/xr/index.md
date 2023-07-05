@@ -22,41 +22,41 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 ## Mozilla Hubs Experimente
 ## Lernräume Stickstoff Patrik
-* [Alter Raum Stickstoff ](https://hub.link/9Myzjfg)
+* [Alter Raum Stickstoff ](https://hub.link/9Myzjfg){:target="_blank"}
 
 ![Stickstoff Raum Baseline](https://tobias-weiss.org/nitrogene-room-baseline-qr.gif)
 
-* [Neuer Raum Stickstoff Patrik](https://hub.link/oFFZDYW)
+* [Neuer Raum Stickstoff Patrik](https://hub.link/oFFZDYW){:target="_blank"}
 
 ![Nitrogene room Patrik](https://tobias-weiss.org/nitrogene-room-patrik-qr.gif)
 
-* [Fragebogen Patrik](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en)
+* [Fragebogen Patrik](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en){:target="_blank"}
 
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
 
 ### Lernräume Colin
-* [Raum A](https://hubs.mozilla.com/link/ehrT2Bz)
+* [Raum A](https://hubs.mozilla.com/link/ehrT2Bz){:target="_blank"}
 
 ![Colin Raum A](img/colin-room-a-qr.gif)
 
-* [Raum B](https://hubs.mozilla.com/link/yBeQVrf)
+* [Raum B](https://hubs.mozilla.com/link/yBeQVrf){:target="_blank"}
 
 ![Colin Raum B](img/colin-room-a-qr.gif)
 
-* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en)
+* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en){:target="_blank"}
 
 ![Colin Fragebogen QR](img/colin-survey-qr.gif)
 
 ###  Xiaowen Lernräume
-* [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M)
+* [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M){:target="_blank"}
 
 ![Xiaowen Raum A](img/xiaowen-room-a-qr.gif)
 
-* [Raum B](https://hubs.mozilla.com/scenes/4DcdxGC)
+* [Raum B](https://hubs.mozilla.com/scenes/4DcdxGC){:target="_blank"}
 
 ![Xiaowen Raum B](img/xiaowen-room-b-qr.gif)
 
-* [Xiaowen Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/695713?lang=en)
+* [Xiaowen Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en){:target="_blank"}
 
 ![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
 
