@@ -19,6 +19,13 @@ languageCode = "en-US"
     googleAnalytics = "XYZ"
     enableRobotsTXT = true
 
+    ## allow raw HTML
+    ## https://stackoverflow.com/questions/63198652/hugo-shortcode-ignored-saying-raw-html-omitted
+    [markup]
+        [markup.goldmark]
+            [markup.goldmark.renderer]
+                unsafe = true
+
     ## Site Settings
     [params]
     author = "Tobias Weiss"

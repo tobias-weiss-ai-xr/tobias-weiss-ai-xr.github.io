@@ -22,41 +22,41 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 ## Mozilla Hubs Experimente
 ## Lernräume Stickstoff Patrik
-* [Alter Raum Stickstoff ](https://hub.link/9Myzjfg){:target="_blank"}
+<a href="https://hub.link/9Myzjfg" target="_blank">Alter Stickstoff Raum</a>
 
-![Stickstoff Raum Baseline](https://tobias-weiss.org/nitrogene-room-baseline-qr.gif)
+![Baseline Stickstoff Raum](https://tobias-weiss.org/nitrogene-room-baseline-qr.gif)
 
-* [Neuer Raum Stickstoff Patrik](https://hub.link/oFFZDYW){:target="_blank"}
+<a href="https://hub.link/oFFZDYW" target="_blank">Patrik neuer Stickstoff Raum</a>
 
-![Nitrogene room Patrik](https://tobias-weiss.org/nitrogene-room-patrik-qr.gif)
+![Patrik Nitrogene Room](https://tobias-weiss.org/nitrogene-room-patrik-qr.gif)
 
-* [Fragebogen Patrik](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en){:target="_blank"}
+<a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en" target="_blank">Patrik Fragebogen</a>
 
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
 
 ### Lernräume Colin
-* [Raum A](https://hubs.mozilla.com/link/ehrT2Bz){:target="_blank"}
+<a href="https://hubs.mozilla.com/scenes/ehrT2Bz" target="_blank">Raum A</a>
 
 ![Colin Raum A](img/colin-room-a-qr.gif)
 
-* [Raum B](https://hubs.mozilla.com/link/yBeQVrf){:target="_blank"}
+<a href="https://hubs.mozilla.com/scenes/yBeQVrf" target="_blank">Raum B</a>
 
 ![Colin Raum B](img/colin-room-a-qr.gif)
 
-* [Colin Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en){:target="_blank"}
+<a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en" target="_blank">Colin Fragebogen</a>
 
 ![Colin Fragebogen QR](img/colin-survey-qr.gif)
 
 ###  Xiaowen Lernräume
-* [Raum A](https://hubs.mozilla.com/scenes/jYwNq9M){:target="_blank"}
+* <a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Raum B</a>
 
 ![Xiaowen Raum A](img/xiaowen-room-a-qr.gif)
 
-* [Raum B](https://hubs.mozilla.com/scenes/4DcdxGC){:target="_blank"}
+* <a href="https://hubs.mozilla.com/scenes/4DcdxGC" target="_blank">Raum B</a>
 
 ![Xiaowen Raum B](img/xiaowen-room-b-qr.gif)
 
-* [Xiaowen Fragebogen](https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en){:target="_blank"}
+* <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en" target="_blank">Xiaowen Fragebogen</a>
 
 ![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
 
