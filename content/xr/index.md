@@ -1,5 +1,5 @@
 +++
-categories = ["xr","experiments"]
+categories = ["xr", "vr", "ar", "experiments"]
 date = "2022-01-01T00:00:00-01:00"
 draft = false
 slug = "xr"
@@ -9,16 +9,6 @@ comments = false
 showcomments = false
 showpagemeta = false
 +++
-
-## Please register to our experiment
-* Duration approximately 1h.
-* Payment 12 € + 3 € Bonus.
-* Make three purchase decisions in a VR shopping environment.
-
-https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
-
-
-![Experiment registration QR code](https://tobias-weiss.org/exp-register-qr.gif)
 
 ## Mozilla Hubs Experimente
 ## Lernräume Stickstoff Patrik
@@ -30,7 +20,9 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 ![Patrik Nitrogene Room](https://tobias-weiss.org/nitrogene-room-patrik-qr.gif)
 
+<!--
 <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en" target="_blank">Patrik Fragebogen</a>
+-->
 
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
 
@@ -45,7 +37,7 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en" target="_blank">Colin Fragebogen</a>
 
-![Colin Fragebogen QR](img/colin-survey-qr.gif)
+<!-- ![Colin Fragebogen QR](img/colin-survey-qr.gif) -->
 
 ###  Xiaowen Lernräume
 * <a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Raum B</a>
@@ -58,7 +50,7 @@ https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
 
 * <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en" target="_blank">Xiaowen Fragebogen</a>
 
-![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
+<!-- ![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif) -->
 
 ### Bitcoin Proof of work vs. Proof of stake
 https://hub.link/Ko49mHj
@@ -73,4 +65,14 @@ Luckily, I host a private version of it.
 Just use the right controller and the trigger button (index finger) to navigate.
 
 https://tobias-weiss.org/hello-webxr/
+
+## Please register to our experiment
+* Duration approximately 1h.
+* Payment 12 € + 3 € Bonus.
+* Make three purchase decisions in a VR shopping environment.
+
+https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ
+
+
+![Experiment registration QR code](https://tobias-weiss.org/exp-register-qr.gif)
 
