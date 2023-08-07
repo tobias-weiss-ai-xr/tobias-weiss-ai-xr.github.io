@@ -11,7 +11,7 @@ showpagemeta = false
 +++
 
 ## Mozilla Hubs Experimente
-## Lernräume Stickstoff Patrik
+### Lernräume Stickstoff Patrik
 <a href="https://hub.link/9Myzjfg" target="_blank">Alter Stickstoff Raum</a>
 
 ![Baseline Stickstoff Raum](https://tobias-weiss.org/nitrogene-room-baseline-qr.gif)
@@ -22,9 +22,9 @@ showpagemeta = false
 
 <!--
 <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en" target="_blank">Patrik Fragebogen</a>
--->
 
 ![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
+-->
 
 ### Lernräume Colin
 <a href="https://hubs.mozilla.com/scenes/ehrT2Bz" target="_blank">Raum A</a>
@@ -35,9 +35,11 @@ showpagemeta = false
 
 ![Colin Raum B](img/colin-room-a-qr.gif)
 
+<!-- 
 <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en" target="_blank">Colin Fragebogen</a>
 
-<!-- ![Colin Fragebogen QR](img/colin-survey-qr.gif) -->
+![Colin Fragebogen QR](img/colin-survey-qr.gif)
+-->
 
 ###  Xiaowen Lernräume
 * <a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Raum B</a>
@@ -48,9 +50,11 @@ showpagemeta = false
 
 ![Xiaowen Raum B](img/xiaowen-room-b-qr.gif)
 
+<!--
 * <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en" target="_blank">Xiaowen Fragebogen</a>
 
-<!-- ![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif) -->
+![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
+-->
 
 ### Bitcoin Proof of work vs. Proof of stake
 https://hub.link/Ko49mHj
