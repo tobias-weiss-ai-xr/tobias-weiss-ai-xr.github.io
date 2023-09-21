@@ -58,12 +58,12 @@ languageCode = "en-US"
 
     ## Main Menu
     [[menu.main]]
-        name = "xr"
+        name = "Extended Reality"
         weight = 100
         identifier = "xr"
         url = "/xr/"
     [[menu.main]]
-        name = "pgp"
+        name = "pretty good privacy"
         weight = 200
         identifier = "pgp"
         url = "/pgp/"
@@ -73,10 +73,10 @@ languageCode = "en-US"
         weight = 300
         url = "/story/"
     [[menu.main]]
-        name = "about"
-        identifier = "about"
+        name = "curriculum vitae"
+        identifier = "cv"
         weight = 400
-        url = "/about/"
+        url = "/cv/"
     #[[menu.main]]
     #    name = "blog"
     #    identifier = "blog"

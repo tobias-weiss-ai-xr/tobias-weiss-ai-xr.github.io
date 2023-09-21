@@ -16,7 +16,7 @@ How do new, exciting and at the same time challenging technologies, such as virt
 </em>
 </p>
 
-![One of my articles](2023_vr_ar_learning_workshop.pdf) describes an interdisciplinary project that addresses precisely this question. 
+[One of my articles](2023_vr_ar_learning_workshop.pdf) describes an interdisciplinary project that addresses precisely this question. 
 Our goal is to represent the periodic table of elements as a network of virtual environments in which each element has its own space.
 A separate learning environment should be designed for each element, which is enriched with information about the elements (e.g. in the case of nitrogen, the formation of nitrogen oxides in car traffic or the production of fertilizers).
 This article describes our iterative approach and the optimization of an existing first prototype.

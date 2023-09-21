@@ -10,9 +10,8 @@ showcomments = false
 showpagemeta = false
 +++
 
-Unfortunately, the official WebXR Demo Instance is down.
-Luckily, I host a private version of it.
-
-Just use the right controller and the trigger button (index finger) to navigate.
-
+The official WebXR Demo Instance is down.
+Luckily, I host a private version of it:
 https://tobias-weiss.org/hello-webxr/
+
+Please use the right controller and the trigger button (index finger) to navigate.
