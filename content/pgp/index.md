@@ -4,15 +4,16 @@ date = "2021-02-17T00:00:00-01:00"
 draft = false
 slug = "pgp"
 tags = ["pgp"]
-title = "PGP"
+title = "Pretty Good Privacy"
 comments = false
 showcomments = false
 showpagemeta = false
 +++
 
-Feel free to contact me via e-mail: spam@tobias-weiss.org
-
-If you like to send me an encrypted message, please use following public key:
+PGP stands for Pretty Good Privacy, and it is a data encryption and decryption program that provides cryptographic privacy and authentication.
+It was initially developed by Phil Zimmermann in 1991 and has since become a widely used method for securing email communications and files.
+Feel free to contact me via e-mail [spam@tobias-weiss.org](mailto:spam@tobias-weiss.org).
+If you like to send me an encrypted message via PGP, please use following public key:
 
 {{< highlight go >}}
 -----BEGIN PGP PUBLIC KEY BLOCK-----

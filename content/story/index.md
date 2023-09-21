@@ -17,8 +17,10 @@ My mother tongue is Swabian.
 However, I am also familiar with German and English. 
 Swedish and French also work to some extent.
 
-<img src="img/me_berlin.png" width="49%">
-<img src="img/me_leipzig.png" width="49.5%">
+<center>
+    <img src="img/me_berlin.png" width="45%">
+    <img src="img/me_leipzig.png" width="45%">
+</center>
 
 With respect to information technology, most things are fine for me. 
 What really hooked me was and still is Linux.
