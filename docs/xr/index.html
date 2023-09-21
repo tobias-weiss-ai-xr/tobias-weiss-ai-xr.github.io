@@ -14,12 +14,17 @@
 
 <title>Tobias Weiss</title>
 
+<link rel="alternate" type="application/rss+xml" href="https://tobiasweede.github.io/xr/index.xml" title="Tobias Weiss" />
 
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400|Roboto+Slab:400,700|Roboto:300,300i,400,400i,500,500i,700,700i">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://tobiasweede.github.io/css/main.css">
+<link rel="stylesheet" href="https://tobiasweede.github.io/css/custom.css">
+<link id="dark-mode-theme" rel="stylesheet" href="https://tobiasweede.github.io/css/dark.css">
+<link href='https://unpkg.com/css.gg@2.0.0/icons/css/dark-mode.css' rel='stylesheet'>
+
 
 
 
@@ -32,79 +37,100 @@
 </head>
 <body lang="en-US">
 <div class="container">
-
-
-<header class="row text-left title">
-  <h1 class="title">XR</h1>
-</header>
-<section id="category-pane" class="row meta">
-  
-</section>
-<section id="content-pane" class="row">
-  <div class="col-md-12 text-justify content">
-    <h2 id="mozilla-hubs-experimente">Mozilla Hubs Experimente</h2>
-<h3 id="lernräume-stickstoff-patrik">Lernräume Stickstoff Patrik</h3>
-<p><a href="https://hub.link/9Myzjfg" target="_blank">Alter Stickstoff Raum</a></p>
-<p><img src="https://tobias-weiss.org/nitrogene-room-baseline-qr.gif" alt="Baseline Stickstoff Raum"></p>
-<p><a href="https://hub.link/oFFZDYW" target="_blank">Patrik neuer Stickstoff Raum</a></p>
-<p><img src="https://tobias-weiss.org/nitrogene-room-patrik-qr.gif" alt="Patrik Nitrogene Room"></p>
-<!--
-<a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/381119?lang=en" target="_blank">Patrik Fragebogen</a>
-
-![Survey Nitrogene](https://tobias-weiss.org/nitrogene-survey-qr.gif)
--->
-<h3 id="lernräume-colin">Lernräume Colin</h3>
-<p><a href="https://hubs.mozilla.com/scenes/ehrT2Bz" target="_blank">Raum A</a></p>
-<p><img src="img/colin-room-a-qr.gif" alt="Colin Raum A"></p>
-<p><a href="https://hubs.mozilla.com/scenes/yBeQVrf" target="_blank">Raum B</a></p>
-<p><img src="img/colin-room-a-qr.gif" alt="Colin Raum B"></p>
-<!-- 
-<a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/178354?lang=en" target="_blank">Colin Fragebogen</a>
-
-![Colin Fragebogen QR](img/colin-survey-qr.gif)
--->
-<h3 id="xiaowen-lernräume">Xiaowen Lernräume</h3>
-<ul>
-<li><a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Raum B</a></li>
-</ul>
-<p><img src="img/xiaowen-room-a-qr.gif" alt="Xiaowen Raum A"></p>
-<ul>
-<li><a href="https://hubs.mozilla.com/scenes/4DcdxGC" target="_blank">Raum B</a></li>
-</ul>
-<p><img src="img/xiaowen-room-b-qr.gif" alt="Xiaowen Raum B"></p>
-<!--
-* <a href="https://experimente.wirtschaft.uni-giessen.de/survey/index.php/769942?lang=en" target="_blank">Xiaowen Fragebogen</a>
-
-![Xiaowen Fragebogen QR](img/xiaowen-survey-qr.gif)
--->
-<h3 id="bitcoin-proof-of-work-vs-proof-of-stake">Bitcoin Proof of work vs. Proof of stake</h3>
-<p><a href="https://hub.link/Ko49mHj">https://hub.link/Ko49mHj</a></p>
-<h3 id="non-fungible-tokens-nfts">Non-fungible Tokens (NFTs)</h3>
-<p><a href="https://hub.link/7D8bTwT">https://hub.link/7D8bTwT</a></p>
-<h1 id="hello-webxr">Hello WebXR</h1>
-<p>Unfortunately, the official WebXR Demo Instance is down.
-Luckily, I host a private version of it.</p>
-<p>Just use the right controller and the trigger button (index finger) to navigate.</p>
-<p><a href="https://tobias-weiss.org/hello-webxr/">https://tobias-weiss.org/hello-webxr/</a></p>
-<h2 id="please-register-to-our-experiment">Please register to our experiment</h2>
-<ul>
-<li>Duration approximately 1h.</li>
-<li>Payment 12 € + 3 € Bonus.</li>
-<li>Make three purchase decisions in a VR shopping environment.</li>
-</ul>
-<p><a href="https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ">https://experimente.wirtschaft.uni-giessen.de/home/referral?ref=yEalQN0Cdk1rfQ</a></p>
-<p><img src="https://tobias-weiss.org/exp-register-qr.gif" alt="Experiment registration QR code"></p>
-
+  <div id="dark-mode-pane">
+      <a id="dark-mode-toggle" class="gg-dark-mode"></a>
   </div>
-</section>
-<section id="tag-pane" class="row meta">
+
+<script type="text/javascript">
   
+  console.log("Test1");
+  var toggle = document.getElementById("dark-mode-toggle");
+  var darkTheme = document.getElementById("dark-mode-theme");
+
+  function setTheme() {
+      if (darkTheme.disabled) {
+          darkTheme.disabled = false;
+      } else {
+          darkTheme.disabled = true;
+      }
+
+  }
+
+  toggle.addEventListener("click", () => {
+     setTheme(); 
+    });
+</script>
+
+
+
+
+<section id="list-pane" class="row list">
+  <ul >
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/xr/hello-webxr/">Running &#39;Hello WebXR&#39; Instance</a>
+      <p class="meta">
+        MAR 3, 2022
+        <span class="category">
+        
+        
+        
+        —
+        
+        
+        <a class="category" href="/categories/ar">AR</a>, 
+        
+        <a class="category" href="/categories/hello-webxr">HELLO WEBXR</a>, 
+        
+        <a class="category" href="/categories/vr">VR</a>, 
+        
+        <a class="category" href="/categories/xr">XR</a>
+        
+        
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/xr/mozilla_hubs_experiments/">Mozilla Hubs Experiments</a>
+      <p class="meta">
+        AUG 11, 2023
+        <span class="category">
+        
+        
+        
+        —
+        
+        
+        <a class="category" href="/categories/ar">AR</a>, 
+        
+        <a class="category" href="/categories/experiments">EXPERIMENTS</a>, 
+        
+        <a class="category" href="/categories/mozilla-hubs">MOZILLA HUBS</a>, 
+        
+        <a class="category" href="/categories/vr">VR</a>, 
+        
+        <a class="category" href="/categories/xr">XR</a>
+        
+        
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+  </ul>
 </section>
-
-
 
 
 <section id="menu-pane" class="row menu text-center">
+  
   <h4 class="text-center"><a class="menu-item" href="https://tobiasweede.github.io/">home</a></h4>
 </section>
 
@@ -141,5 +167,4 @@ if (!doNotTrack) {
 <script src="js/main.js"></script>
 </body>
 </html>
-
 

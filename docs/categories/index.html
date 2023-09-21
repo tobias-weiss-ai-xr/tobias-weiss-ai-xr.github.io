@@ -21,6 +21,10 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://tobiasweede.github.io/css/main.css">
+<link rel="stylesheet" href="https://tobiasweede.github.io/css/custom.css">
+<link id="dark-mode-theme" rel="stylesheet" href="https://tobiasweede.github.io/css/dark.css">
+<link href='https://unpkg.com/css.gg@2.0.0/icons/css/dark-mode.css' rel='stylesheet'>
+
 
 
 
@@ -33,28 +37,40 @@
 </head>
 <body lang="en-US">
 <div class="container">
+  <div id="dark-mode-pane">
+      <a id="dark-mode-toggle" class="gg-dark-mode"></a>
+  </div>
+
+<script type="text/javascript">
+  
+  console.log("Test1");
+  var toggle = document.getElementById("dark-mode-toggle");
+  var darkTheme = document.getElementById("dark-mode-theme");
+
+  function setTheme() {
+      if (darkTheme.disabled) {
+          darkTheme.disabled = false;
+      } else {
+          darkTheme.disabled = true;
+      }
+
+  }
+
+  toggle.addEventListener("click", () => {
+     setTheme(); 
+    });
+</script>
+
+
 
 
 <section id="list-pane" class="row list">
   <ul >
     
     <li class="list-entry">
-      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/about/">about</a>
-      <p class="meta">
-        JAN 1, 2022
-        <span class="category">
-        
-        </span>
-      </p>
-      <p class="excerpt">
-      
-      </p>
-    </li>
-    
-    <li class="list-entry">
       <a class="list-entry-link" href="https://tobiasweede.github.io/categories/ar/">ar</a>
       <p class="meta">
-        JAN 1, 2022
+        AUG 11, 2023
         <span class="category">
         
         </span>
@@ -66,6 +82,71 @@
     
     <li class="list-entry">
       <a class="list-entry-link" href="https://tobiasweede.github.io/categories/experiments/">experiments</a>
+      <p class="meta">
+        AUG 11, 2023
+        <span class="category">
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/mozilla-hubs/">mozilla hubs</a>
+      <p class="meta">
+        AUG 11, 2023
+        <span class="category">
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/vr/">vr</a>
+      <p class="meta">
+        AUG 11, 2023
+        <span class="category">
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/xr/">xr</a>
+      <p class="meta">
+        AUG 11, 2023
+        <span class="category">
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/hello-webxr/">hello webxr</a>
+      <p class="meta">
+        MAR 3, 2022
+        <span class="category">
+        
+        </span>
+      </p>
+      <p class="excerpt">
+      
+      </p>
+    </li>
+    
+    <li class="list-entry">
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/about/">about</a>
       <p class="meta">
         JAN 1, 2022
         <span class="category">
@@ -91,20 +172,7 @@
     </li>
     
     <li class="list-entry">
-      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/vr/">vr</a>
-      <p class="meta">
-        JAN 1, 2022
-        <span class="category">
-        
-        </span>
-      </p>
-      <p class="excerpt">
-      
-      </p>
-    </li>
-    
-    <li class="list-entry">
-      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/xr/">xr</a>
+      <a class="list-entry-link" href="https://tobiasweede.github.io/categories/story/">story</a>
       <p class="meta">
         JAN 1, 2022
         <span class="category">

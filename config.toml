@@ -63,20 +63,25 @@ languageCode = "en-US"
         identifier = "xr"
         url = "/xr/"
     [[menu.main]]
+        name = "pgp"
+        weight = 200
+        identifier = "pgp"
+        url = "/pgp/"
+    [[menu.main]]
+        name = "personal story"
+        identifier = "personal story"
+        weight = 300
+        url = "/story/"
+    [[menu.main]]
         name = "about"
         identifier = "about"
-        weight = 300
+        weight = 400
         url = "/about/"
     #[[menu.main]]
     #    name = "blog"
     #    identifier = "blog"
     #weight = 100
     #url = "/blog/"
-    [[menu.main]]
-        name = "pgp"
-        weight = 200
-        identifier = "pgp"
-        url = "/pgp/"
     #[[menu.main]]
     #    name = "what happend to the old page?"
     #    weight = 300
