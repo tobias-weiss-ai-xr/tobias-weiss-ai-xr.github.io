@@ -36,7 +36,7 @@ Weiß, T., Merkl, L. & Pfeiffer, J. (2023). "Customer Decision-Making Processes 
 
 2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
 
-## Industrial experience
+## Industrial positions
 2015--2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
 
 2013: IT administrator, DKMS gGmbH, Tübingen, 2nd-level IT-support.
