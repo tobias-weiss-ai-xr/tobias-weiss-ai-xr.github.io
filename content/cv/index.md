@@ -16,7 +16,7 @@ showpagemeta = false
 
 ## Research interests
 - XR (Augmented reality, mixed reality, and virtual reality)
-- Eye tracking
+- Bio signals (For example eye tracking)
 - Consumer behavior in the metaverse
 - Recommender systems
 
