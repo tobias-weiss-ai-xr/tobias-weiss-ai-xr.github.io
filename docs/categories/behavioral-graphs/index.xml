@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavioral graphs on Tobias Weiss</title>
+    <link>https://tobiasweede.github.io/categories/behavioral-graphs/</link>
+    <description>Recent content in behavioral graphs on Tobias Weiss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/categories/behavioral-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behavioral Graphs Testing Instance</title>
+      <link>https://tobiasweede.github.io/xr/behavioralgraphs/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/xr/behavioralgraphs/</guid>
+      <description>I happily share the link to my new behavioral graph testing instance:
+https://testing.dev.myhubs.net/y2JZXuM/authentic-wry-adventure?newLoader&amp;amp;ecsDebug&amp;amp;vr_entry_type=2d_now&amp;amp;entity_state_api&amp;amp;&amp;amp;debugLocalScene
+Enjoy :)</description>
+    </item>
+    
+  </channel>
+</rss>
