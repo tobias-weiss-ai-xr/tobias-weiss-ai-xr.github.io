@@ -24,7 +24,7 @@ An iterative optimization process (in the sense of design science research) help
 We present the results of a 40-observation study comparing learning spaces created using the Mozilla Hubs platform.
 The newly designed learning spaces were designed particularly taking into account the principles of the theory of multimedia learning.
 The results suggest that by applying the principles of multimedia learning theory, perceived learning success can be significantly improved.
-In the future, I plan to implement a GDPR-compliant Mozilla Hubs instance and build up corresponding expertise.
+In the future, I plan to set up a General Data Protection Regulation (GDPR) compliant Mozilla Hubs instance and build up corresponding expertise.
 
 ### Learning rooms nitrogen Patrik
 <a href="https://hub.link/9Myzjfg" target="_blank">Old nitrogen room</a>
@@ -57,11 +57,11 @@ In the future, I plan to implement a GDPR-compliant Mozilla Hubs instance and bu
 -->
 
 ###  Xiaowen Learning rooms
-* <a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Room A</a>
+<a href="https://hubs.mozilla.com/scenes/jYwNq9M" target="_blank">Room A</a>
 
 ![Xiaowen room A](img/xiaowen-room-a-qr.gif)
 
-* <a href="https://hubs.mozilla.com/scenes/4DcdxGC" target="_blank">Room B</a>
+<a href="https://hubs.mozilla.com/scenes/4DcdxGC" target="_blank">Room B</a>
 
 ![Xiaowen room B](img/xiaowen-room-b-qr.gif)
 
