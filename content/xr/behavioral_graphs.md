@@ -1,6 +1,6 @@
 +++
 categories = ["xr", "vr", "ar", "behavioral graphs"]
-date = "2022-11-13T00:00:00-01:00"
+date = "2023-11-13T00:00:00-01:00"
 draft = false
 slug = "BehavioralGraphs"
 tags = ["xr", "WebXR"]
