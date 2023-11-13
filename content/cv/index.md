@@ -63,7 +63,7 @@ Weiß, T., Merkl, L. & Pfeiffer, J. (2023). "Customer Decision-Making Processes 
 - Web servers: apache, nginx, gunicorn
  
 ## Private interests
-- Sports (HIIT, weights, jogging, cycling)
-- Guitar (I still own less than ten instruments)
+- Sports (cycling, HIIT, jogging, weights, you name it)
+- Guitars (It is under control, I still own less than ten instruments)
 - Linux, electronics, and 3D printing
 - Traveling, one of my favorite destinations is the Red Sea
