@@ -10,9 +10,13 @@ showcomments = false
 showpagemeta = false
 +++
 
-I happily share the link to my new testing instance:
+
+I happily share the link to the Hubs testing instance:
 
 [Behavoral Graphs Testing Instance](https://testing.dev.myhubs.net/y2JZXuM/authentic-wry-adventure?newLoader&ecsDebug&vr_entry_type=2d_now&entity_state_api&&debugLocalScene)
+
+However, you need to sign up for alpha testing:
+[Sign up Form](https://forms.gle/8VFzV39V6yreMEhB6)
 
 
 Enjoy :)
