@@ -10,6 +10,11 @@ showcomments = false
 showpagemeta = false
 +++
 
+Behavioral Graphs (BGs) extend [Mozilla Hubs](https://hubs.mozilla.com/) with interactive features.
+I think BGs are a great opportunity to push the limits of old "gallery like" secenes.
+
+![BG example](https://imgur.com/Jbp8gwg.png)
+
 
 I happily share the link to the Hubs testing instance:
 
@@ -17,6 +22,5 @@ I happily share the link to the Hubs testing instance:
 
 However, you need to sign up for alpha testing:
 [Sign up Form](https://forms.gle/8VFzV39V6yreMEhB6)
-
 
 Enjoy :)
