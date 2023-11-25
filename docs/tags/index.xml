@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Tobias Weiss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 -0100</lastBuildDate><atom:link href="https://tobiasweede.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WebXR</title>
-      <link>https://tobiasweede.github.io/tags/webxr/</link>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      <title>Mozilla Hubs</title>
+      <link>https://tobiasweede.github.io/tags/mozilla-hubs/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
       
-      <guid>https://tobiasweede.github.io/tags/webxr/</guid>
+      <guid>https://tobiasweede.github.io/tags/mozilla-hubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xr</title>
       <link>https://tobiasweede.github.io/tags/xr/</link>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 -0100</pubDate>
       
       <guid>https://tobiasweede.github.io/tags/xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebXR</title>
+      <link>https://tobiasweede.github.io/tags/webxr/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 -0100</pubDate>
+      
+      <guid>https://tobiasweede.github.io/tags/webxr/</guid>
       <description></description>
     </item>
     

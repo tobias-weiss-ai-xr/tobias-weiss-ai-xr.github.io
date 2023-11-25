@@ -59,7 +59,7 @@ languageCode = "en-US"
     ## Main Menu
     [[menu.main]]
         name = "Extended Reality"
-        weight = 100
+        weight = 200
         identifier = "xr"
         url = "/xr/"
     [[menu.main]]
@@ -77,6 +77,11 @@ languageCode = "en-US"
         identifier = "cv"
         weight = 400
         url = "/cv/"
+    [[menu.main]]
+        name = "wiki "
+        identifier = "wiki"
+        weight = 100
+        url = "https://tobias-weiss.org/wiki"
     #[[menu.main]]
     #    name = "blog"
     #    identifier = "blog"
