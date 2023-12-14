@@ -20,12 +20,19 @@ showpagemeta = false
 - Consumer behavior in the metaverse
 - Recommender systems
 
+## Work in progress 
+Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load"
+
+Eilks, A., Weiß, T., Putze, F., Pfeiffer, J. and Schutz, T. (2024). "Real agents in virtual commerce"
+
+Weiß, T., Meißner, M. and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality"
+
 ## Publications 
-Weiß, T., Kirch, P., Büst, M., Schinder, S. & Pfeiffer, J. (In press). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
+Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (In press). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
 
-Weiß, T. & Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
+Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
 
-Weiß, T., Merkl, L. & Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
 
 ## Academic experience
 2022--today: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
