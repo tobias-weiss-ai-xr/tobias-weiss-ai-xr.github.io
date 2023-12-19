@@ -28,13 +28,13 @@ After school and apprenticeship, I worked as a system administrator.
 I am still maintaining some systems, but most of my time goes into coding and project management.
 Overall, I can look back to quite a history of IT related projects with a broad variety of tool stacks.
 
-A few years ago I decided to work on my formal education and moved to Jena, a beautiful city in Thurighia.
+A few years ago, I decided to work on my formal education and moved to Jena, a beautiful city in Thurighia.
 During my undergraduate Business Information Systems studies I had the opportunity to spend time in Estonia and Sweden.
 Scandinavia and the Baltics remain part of me.
 I finished my master and found a placement in Giessen, Hesse.
 
 Today, I pursue my research interests as part of the [kd2school graduate program](https://www.kd2school.info).
 I am interested in mixed reality (XR) which includes all kinds of augmented reality and virtual reality.
-In my experiments, I combine XR with bio-sensors such as eye trackers and ECG.
+In my experiments, I combine XR with bio sensors, such as eye tracking and electrocardiography.
 My goal is to provide user assistance in the forthcoming v-commerce domain.
-I am also curious about XR in education. See the XR section to see a few works.
+I am also curious about XR in education. See the [XR section](xr) to see a few works.
