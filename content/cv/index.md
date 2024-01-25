@@ -16,8 +16,8 @@ showpagemeta = false
 
 ## Research interests
 - Bio signals
-- Extended Reality
 - Consumer Behavior
+- Extended Reality
 - Machine Learning
 - Recommender systems
 
@@ -31,9 +31,9 @@ Weiß, T. and Pfeiffer, J. (in press). "Consumer Decisions in Virtual Commerce: 
 
 ## Publications 
 
-Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
-
 Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
+
+Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
 
 Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
 
