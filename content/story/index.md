@@ -22,7 +22,7 @@ Swedish and French also work to some extent.
     <img src="img/me_leipzig.png" width="45%">
 </center>
 
-With respect to information technology, most things are fine for me. 
+With respect to Information Technology (IT), most things are fine for me. 
 What really hooked me was and still is Linux.
 After school and apprenticeship, I worked as a system administrator.
 I am still maintaining some systems, but most of my time goes into coding and project management.
