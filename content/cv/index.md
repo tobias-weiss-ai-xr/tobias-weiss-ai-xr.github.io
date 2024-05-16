@@ -17,7 +17,7 @@ showpagemeta = false
 ## Research interests
 - Bio signals
 - Consumer Behavior
-- Extended Reality
+- eXtended Reality
 - Machine Learning
 - Recommender systems
 
@@ -25,11 +25,10 @@ showpagemeta = false
 
 Weiß, T. and Pfeiffer, J. (in press). "Adaptive User Assistance in Virtual Reality"
 
-Eilks, A., Weiß, T., Putze, F., Pfeiffer, J., and Schutz, T. (in press). "Real agents in virtual commerce"
-
-Weiß, T. and Pfeiffer, J. (in press). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load"
+Eilks, A., Weiß, T., Putze, F., Pfeiffer, J., and Schultz, T. (in press). "Real agents in virtual commerce"
 
 ## Publications 
+Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
 
 Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
 
