@@ -28,9 +28,9 @@ languageCode = "en-US"
 
     ## Site Settings
     [params]
-    author = "Tobias Weiss"
-    intro = "XR enthusiast"
-    description = "@Giessen, DE"
+    author = "Tobias Weiß"
+    intro = "Realistic XR enthusiast"
+    description = "currently @Giessen, DE"
     authorimage = "me_wanted_big.png"
     dateformat = "Jan 2, 2006"
 
@@ -62,11 +62,11 @@ languageCode = "en-US"
         identifier = "cv"
         weight = 100
         url = "/cv/"
-    [[menu.main]]
-        name = "Extended Reality"
-        weight = 200
-        identifier = "xr"
-        url = "/xr/"
+    #[[menu.main]]
+    #    name = "Extended Reality"
+    #    weight = 200
+    #    identifier = "xr"
+    #    url = "/xr/"
     [[menu.main]]
         name = "personal story"
         identifier = "personal story"
@@ -77,11 +77,11 @@ languageCode = "en-US"
         weight = 400
         identifier = "pgp"
         url = "/pgp/"
-    [[menu.main]]
-        name = "wiki "
-        identifier = "wiki"
-        weight = 500
-        url = "https://tobias-weiss.org/wiki"
+    #[[menu.main]]
+    #    name = "wiki "
+    #    identifier = "wiki"
+    #    weight = 500
+    #    url = "https://tobias-weiss.org/wiki"
     #[[menu.main]]
     #    name = "blog"
     #    identifier = "blog"

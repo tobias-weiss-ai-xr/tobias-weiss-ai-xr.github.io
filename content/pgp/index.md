@@ -10,9 +10,8 @@ showcomments = false
 showpagemeta = false
 +++
 
-PGP stands for Pretty Good Privacy, and it is a data encryption and decryption program that provides cryptographic privacy and authentication.
-It was initially developed by Phil Zimmermann in 1991 and has since become a widely used method for securing email communications and files.
-Feel free to contact me via e-mail [spam@tobias-weiss.org](mailto:spam@tobias-weiss.org).
+Pretty Good Privacy (PGP) is a method for data encryption and decryption.
+With a properly configured e-mail software, it provides cryptographic privacy and authentication.
 If you like to send me an encrypted message via PGP, please use following public key:
 
 {{< highlight go >}}
@@ -47,3 +46,5 @@ sCdnN6RNxFCgfHuLvWizqam0ClprKHD+UUI0TpIdraIhLTo71Q==
 =hARX
 -----END PGP PUBLIC KEY BLOCK-----
 {{< /highlight >}}
+
+Feel free to contact me via e-mail [spam@tobias-weiss.org](mailto:spam@tobias-weiss.org).

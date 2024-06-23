@@ -10,35 +10,13 @@ showcomments = false
 showpagemeta = false
 +++
 
-<div style="position:relative;float:right;margin:25px">
+<div style="position:relative;float:none;margin:25px">
 <img src="img/me_thumb.jpeg">
 </div>
 
-## Research interests
-- Bio signals
-- Consumer Behavior
-- eXtended Reality
-- Machine Learning
-- Recommender systems
-
-## Work in progress 
-
-Weiß, T. and Pfeiffer, J. (in press). "Adaptive User Assistance in Virtual Reality"
-
-Eilks, A., Weiß, T., Putze, F., Pfeiffer, J., and Schultz, T. (in press). "Real agents in virtual commerce"
-
-## Publications 
-Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
-
-Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
-
-Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
-
-Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
-
 ## Academic experience
 
-2022--today: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
+01/2022--01/2025: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
 
 2020--2022: M. Sc. Business Infomation Systems, Friedrich-Schiller University, Jena.
 
@@ -58,6 +36,31 @@ Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processe
 2008--2010: IT consultant, e–projecta GmbH, Balingen, 1st-level IT-support.
 
 2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
+
+## Publications 
+Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "AI agents in virtual commerce". Working paper
+
+Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
+
+Weiß, T. and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality". Working paper
+
+Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "Real agents in virtual commerce". Working paper
+
+Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good help-timing and its prediction based on cognitive load" In: Lacoste-Badie, S., Reimann, M. & Schilke, S., Editors., NeuroPsychoEconomics Conference Proceedings, 19(1) 
+
+Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
+
+Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+
+## Work in progress
+
+
+## Research interests
+- Bio signals
+- Consumer Behavior
+- eXtended Reality
+- Machine Learning
+- Recommender systems
 
 ## My top 3 most fluent...
 - Configuration management systems: ansible, puppet, GPOs
