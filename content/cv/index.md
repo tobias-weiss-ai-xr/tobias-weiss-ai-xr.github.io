@@ -14,9 +14,9 @@ showpagemeta = false
 <img src="img/me_thumb.jpeg">
 </div>
 
-## Academic experience
+## Working experience and education
 
-01/2022--01/2025: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
+2022--2025: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
 
 2020--2022: M. Sc. Business Infomation Systems, Friedrich-Schiller University, Jena.
 
@@ -24,7 +24,6 @@ showpagemeta = false
 
 2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
 
-## Industrial positions
 2015--2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
 
 2013: IT administrator, DKMS gGmbH, Tübingen, 2nd-level IT-support.
@@ -52,10 +51,7 @@ Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine int
 
 Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
 
-## Work in progress
-
-
-## Research interests
+## Reseach topics
 - Bio signals
 - Consumer Behavior
 - eXtended Reality
