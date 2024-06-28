@@ -33,8 +33,14 @@ During my undergraduate Business Information Systems studies I had the opportuni
 Scandinavia and the Baltics remain part of me.
 I finished my master and found a placement in Giessen, Hesse.
 
-Today, I finish my PhD as part of the [kd2school graduate program](https://www.kd2school.info).
 I am interested in eXtended reality (XR) which includes all kinds of augmented reality and virtual reality.
+I am part of of the [kd2school graduate program](https://www.kd2school.info).
 In my experiments, I combine XR with bio sensors, such as eye tracking and electrocardiography.
 My goal is to provide user assistance in the forthcoming v-commerce domain.
 I am also curious about XR in education.
+
+<center>
+    <img src="img/vr-experiments.jpg" width="45%">
+    <img src="img/lab.jpg" width="45%">
+</center>
+

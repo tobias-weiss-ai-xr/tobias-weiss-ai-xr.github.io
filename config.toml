@@ -82,11 +82,11 @@ languageCode = "en-US"
     #    identifier = "wiki"
     #    weight = 500
     #    url = "https://tobias-weiss.org/wiki"
-    #[[menu.main]]
-    #    name = "blog"
-    #    identifier = "blog"
-    #weight = 100
-    #url = "/blog/"
+    [[menu.main]]
+        name = "gallery"
+        identifier = "gallery"
+    weight = 350
+    url = "/gallery/"
     #[[menu.main]]
     #    name = "what happend to the old page?"
     #    weight = 300
