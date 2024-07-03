@@ -10,14 +10,10 @@ showcomments = false
 showpagemeta = false
 +++
 
-Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the NeuroIS Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of well recognized Technology Acceptance Model, a recognized model in the Information Systems domain.
+Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the NeuroIS Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
+
 <center>
     <img src="img/neurois.jpg" width="95%">
-</center>
-
-My doctoral supervisor Prof. Dr. Jella Pfeiffer wearing a Pico 4 Enterprise Virtual Reality headset:
-<center>
-    <img src="img/jella.jpg" width="95%">
 </center>
 
 A very rare occasion - Jena covered with half a meter of snow:
