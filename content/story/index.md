@@ -34,10 +34,9 @@ Scandinavia and the Baltics remain part of me.
 I finished my master and found a placement in Giessen, Hesse.
 
 I am interested in eXtended reality (XR) which includes all kinds of augmented reality and virtual reality.
-I am part of of the [kd2school graduate program](https://www.kd2school.info).
-In my experiments, I combine XR with bio sensors, such as eye tracking and electrocardiography.
-My goal is to provide user assistance in the forthcoming v-commerce domain.
-I am also curious about XR in education.
+In my consumer behavior experiments, I combine XR with bio sensors, such as eye tracking and electrocardiography.
+My goal is to provide user assistance in the forthcoming virtual commerce domain.
+I am also interested in XR for education and how to integrate artificial intelligence piplines into forthcoming XR applications.
 
 <center>
     <img src="img/vr-experiments.jpg" width="45%">

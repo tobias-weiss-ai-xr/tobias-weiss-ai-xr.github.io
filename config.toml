@@ -29,8 +29,8 @@ languageCode = "en-US"
     ## Site Settings
     [params]
     author = "Tobias Weiß"
-    intro = "Realistic XR enthusiast"
-    description = "currently @Giessen, DE"
+    intro = "eXtended Reality (XR) enthusiast"
+    description = "@Giessen, DE"
     authorimage = "me_wanted_big.png"
     dateformat = "Jan 2, 2006"
 
