@@ -64,7 +64,7 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 - Machine Learning
 - Recommender systems
 
-## My top 3 most fluent...
+## My top 3 most preferred...
 - Configuration management systems: ansible, puppet, GPOs
 - Database management systems: Mariadb, Postgres, Influxdb
 - Internet services: SSH, SMTP, HTTPS
