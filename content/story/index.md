@@ -33,10 +33,11 @@ During my undergraduate Business Information Systems studies I had the opportuni
 Scandinavia and the Baltics remain part of me.
 I finished my master and found a placement in Giessen, Hesse.
 
-I am interested in eXtended reality (XR) which includes all kinds of augmented reality and virtual reality.
+I am interested in eXtended reality (XR), a term that covers all kinds of augmented reality (2D display and headset based) and fully immersive virtual reality.
 In my consumer behavior experiments, I combine XR with bio sensors, such as eye tracking and electrocardiography.
-My goal is to provide user assistance in the forthcoming virtual commerce domain.
-I am also interested in XR for education and how to integrate artificial intelligence piplines into forthcoming XR applications.
+My research topic is how to provide adaptive user assistance in the forthcoming virtual commerce domain.
+A good timing for help offerings and appearing elements in the user interface are key for such adaptive user assistance.
+I am also pursuing in the question how to integrate artificial intelligence piplines into learning and business applications.
 
 <center>
     <img src="img/vr-experiments.jpg" width="45%">
