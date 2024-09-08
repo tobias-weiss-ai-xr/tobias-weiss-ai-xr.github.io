@@ -10,7 +10,7 @@ showcomments = false
 showpagemeta = false
 +++
 
-## Some impressions from Estionia in 2021/2:
+## Impressions of Estionia in 2021/2:
 <center>
     <img src="img/tallin-streets.jpg" width="45%">
     <img src="img/tallin-viking.jpg" width="45%">
@@ -32,7 +32,7 @@ showpagemeta = false
     <img src="img/poster-ai.jpg" width="45%">
 </center>
 
-## A very rare occasion - Jena covered in snow:
+## Jena covered in snow (a very rare event):
 <center>
     <img src="img/jena-winter.jpg" width="95%">
 </center>
