@@ -10,7 +10,7 @@ showcomments = false
 showpagemeta = false
 +++
 
-## Impressions of Estionia in 2021/2:
+## Impressions of Tallinn:
 <center>
     <img src="img/tallin-streets.jpg" width="45%">
     <img src="img/tallin-viking.jpg" width="45%">

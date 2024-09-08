@@ -16,6 +16,7 @@ I was raised in a small village in south-west Germany.
 My mother tongue is Swabian. 
 However, I am also familiar with German and English. 
 Swedish and French also work to some extent.
+The pictures below show me in Berlin and Leipzig.
 
 <center>
     <img src="img/me_berlin.png" width="45%">
@@ -38,6 +39,7 @@ In my consumer behavior experiments, I combine XR with bio sensors, such as eye 
 My research topic is how to provide adaptive user assistance in the forthcoming virtual commerce domain.
 A good timing for help offerings and appearing elements in the user interface are key for such adaptive user assistance.
 I am also pursuing in the question how to integrate artificial intelligence piplines into learning and business applications.
+The pictures below give some impressions of my experiments.
 
 <center>
     <img src="img/vr-experiments.jpg" width="45%">
