@@ -37,7 +37,7 @@ showpagemeta = false
 2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
 ## Publications 
-Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "AI agents in virtual commerce". WORK IN PROGRESS
+Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce". WORK IN PROGRESS
 
 Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
 
@@ -58,10 +58,9 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 </center>
 
 ## Reseach topics
-- Bio signals
-- Consumer Behavior
-- eXtended Reality
-- Machine Learning
+- Consumer behavior (using XR)
+- Eye tracking
+- Machine learning
 - Recommender systems
 
 ## My top 3 most preferred...
