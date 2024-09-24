@@ -24,7 +24,7 @@ Here are my latest selfies from Berlin in 2024.
 </center>
 </br>
 
-The pictures below show me in Berlin and Leipzig in 2020/1.
+The pictures below show me in Berlin and Leipzig in 2020/2021.
 <center>
     <img src="img/me_berlin.png" width="45%">
     <img src="img/me_leipzig.png" width="45%">
