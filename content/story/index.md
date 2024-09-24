@@ -17,14 +17,14 @@ My mother tongue is Swabian.
 However, I am also familiar with German and English. 
 Swedish and French also work to some extent.
 
-Here are my latest selfies from Berlin in 2025.
+Here are my latest selfies from Berlin in 2024.
 <center>
-    <img src="img/me_berlin_2025.jpg" width="45%">
-    <img src="img/me_berlin_2025_sonnenaufgang.jpg" width="45%">
+    <img src="img/me_berlin_2024.jpg" width="45%">
+    <img src="img/me_berlin_2024_sonnenaufgang.jpg" width="45%">
 </center>
 </br>
 
-The pictures below show me in Berlin and Leipzig in 2022.
+The pictures below show me in Berlin and Leipzig in 2020/1.
 <center>
     <img src="img/me_berlin.png" width="45%">
     <img src="img/me_leipzig.png" width="45%">
