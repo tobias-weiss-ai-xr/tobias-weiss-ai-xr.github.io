@@ -11,7 +11,13 @@ showpagemeta = false
 +++
 
 <div style="position:relative;float:none;margin:25px">
+<center>
 <img src="img/me_thumb.jpeg">
+<br/>
+<sup>
+Picture by Katrina Friese (JLU)
+</sup>
+</center>
 </div>
 
 ## Working experience and education
@@ -51,7 +57,7 @@ Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine int
 
 Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
 
-Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the NeuroIS Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
+Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
 
 <center>
     <img src="img/neurois.jpg" width="95%">

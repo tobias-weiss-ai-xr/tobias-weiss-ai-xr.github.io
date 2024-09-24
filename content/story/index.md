@@ -16,12 +16,20 @@ I was raised in a small village in south-west Germany.
 My mother tongue is Swabian. 
 However, I am also familiar with German and English. 
 Swedish and French also work to some extent.
-The pictures below show me in Berlin and Leipzig.
 
+Here are my latest selfies from Berlin in 2025.
+<center>
+    <img src="img/me_berlin_2025.jpg" width="45%">
+    <img src="img/me_berlin_2025_sonnenaufgang.jpg" width="45%">
+</center>
+</br>
+
+The pictures below show me in Berlin and Leipzig in 2022.
 <center>
     <img src="img/me_berlin.png" width="45%">
     <img src="img/me_leipzig.png" width="45%">
 </center>
+</br>
 
 With respect to Information Technology (IT), most things are fine for me. 
 What really hooked me was and still is Linux.
