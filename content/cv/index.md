@@ -24,13 +24,13 @@ Picture by Katrina Friese (JLU)
 
 2022--2025: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
 
-2020--2022: M. Sc. Business Infomation Systems, Friedrich-Schiller University, Jena.
+2020--2022: M. Sc. Infomation Systems, Friedrich-Schiller University, Jena.
 
-2015--2020: B. Sc. Business Infomation Systems, Friedrich-Schiller University, Jena.
-
-2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
+2015--2020: B. Sc. Infomation Systems, Friedrich-Schiller University, Jena.
 
 2015--2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
+
+2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
 
 2013: IT administrator, DKMS gGmbH, Tübingen, 2nd-level IT-support.
 
@@ -56,6 +56,8 @@ Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good
 Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
 
 Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+
+## Awards 
 
 Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
 
