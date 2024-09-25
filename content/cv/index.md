@@ -22,11 +22,11 @@ Picture by Katrina Friese (JLU)
 
 ## Working experience and education
 
-2022--2025: Doctoral research assistant, Chair for Digitalization, E-Business, and Operations Management, Justus-Liebig University, Giessen.
+2022--2025: Doctoral researcher, [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
 
-2020--2022: M. Sc. Infomation Systems, Friedrich-Schiller University, Jena.
+2020--2022: M. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
-2015--2020: B. Sc. Infomation Systems, Friedrich-Schiller University, Jena.
+2015--2020: B. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
 2015--2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
 
