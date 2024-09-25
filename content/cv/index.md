@@ -20,7 +20,7 @@ Picture by Katrina Friese (JLU)
 </center>
 </div>
 
-## Working experience and education
+## Education and working experience
 
 2022--2025: Doctoral researcher, [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
 
