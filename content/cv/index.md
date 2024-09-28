@@ -26,9 +26,9 @@ Picture by Katrina Friese (JLU)
 
 2020--2022: M. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
-2015--2020: B. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
-
 2015--2021: Research assistant, Labor für empirische und experimentelle Wirtschaftsforschung, Friedrich-Schiller University Jena.
+
+2015--2020: B. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
 2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
 
