@@ -66,23 +66,28 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 </center>
 
 ## Reseach topics
-- Consumer behavior (using XR)
+- Consumer behavior 
+- eXtended Reality
 - Eye tracking
 - Machine learning
 - Recommender systems
 
-## My top 3 most preferred...
-- Configuration management systems: ansible, puppet, GPOs
-- Database management systems: Mariadb, Postgres, Influxdb
-- Internet services: SSH, SMTP, HTTPS
+## My most preferred...
+- AI Tools: Ollama, langchain, LMStudio, Convai, Vertex AI
+- Cloud: GCP, Kubernetes
+- Configuration management: ansible, puppet, GPOs
+- Databases: Mariadb, Postgres, Influxdb, neo4j
+- HPC tools: slurm, ray 
+- Internet services:DNS, SSH, SMTP, VPN
 - Linux distributions: Arch, Debian, CentOS
-- Machine learning frameworks: scikit-learn, pyTorch, tensorflow, 
-- Monitoring solutions: Grafana, Icinga, Nagios
+- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
+- Monitoring: Grafana, Icinga, Nagios
 - Natural languages: German, English, Swedish
 - Operating systems: Linux, Windows, FreeBSD
-- Programming languages: Python, R, C#
-- Python packages: pandas, numpy, matplotlib
-- Web servers: apache, nginx, gunicorn
+- Programming languages: Python, C#, R, Java, Javascript
+- Statistics: pymc, pingoui, statsmodels
+- Visualization: seaborn, matplotlib
+- Web servers: apache, nginx, gunicorn, haproxy, spring boot microservices
  
 ## Private interests
 - Sports
