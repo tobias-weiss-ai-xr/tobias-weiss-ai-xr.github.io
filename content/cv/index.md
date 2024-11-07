@@ -73,7 +73,7 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 - Recommender systems
 
 ## My most preferred...
-- AI Tools: Ollama, langchain, LMStudio, Convai, Vertex AI
+- AI Tools: Convai, DeepSpeed, Ollama, Huggingface, langchain, LMStudio, Vertex AI
 - Cloud: GCP, Kubernetes
 - Configuration management: ansible, puppet, GPOs
 - Databases: Mariadb, Postgres, Influxdb, neo4j
