@@ -29,15 +29,15 @@ languageCode = "en-US"
     ## Site Settings
     [params]
     author = "Tobias Weiß"
-    intro = "AI & XR enthusiast"
+    intro = "AI & XR entrepreneur"
     description = "@Giessen, DE"
-    authorimage = "me_wanted_big.png"
+    authorimage = "me_thumb.jpeg"
     dateformat = "Jan 2, 2006"
 
     ## Site Meta Settings
     [params.meta]
     description = "Personal homepage"
-    keywords = "it,guitar,biking,jogging,hugo,xr,ar,vr"
+    keywords = "ai,it,guitar,biking,jogging,hugo,xr,ar,vr"
 
     ## Social Accounts
     [params.social]

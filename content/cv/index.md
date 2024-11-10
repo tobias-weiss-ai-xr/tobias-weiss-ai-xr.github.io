@@ -12,11 +12,7 @@ showpagemeta = false
 
 <div style="position:relative;float:none;margin:25px">
 <center>
-<img src="img/me_thumb.jpeg">
-<br/>
-<sup>
-Picture by Katrina Friese (JLU)
-</sup>
+<img src="img/tobias_weiss_stripe.jpg" width=95%>
 </center>
 </div>
 
