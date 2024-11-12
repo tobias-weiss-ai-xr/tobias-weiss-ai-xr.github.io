@@ -69,8 +69,9 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 - Recommender systems
 
 ## My most preferred...
-- AI Tools: ollama, ComfyUI, vLLM, langchain, Vertex AI, *RAG
+- Artificial Intelligence: ollama, ComfyUI, vLLM, langchain, Vertex AI, *RAG
 - Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
+- eXtended Reality: Unity, Unreal, WebXR, Blender, A-Frame
 - Cloud: GCP, Kubernetes
 - Databases: Mariadb, Postgres, Influxdb, neo4j
 - HPC tools: slurm, ray 
