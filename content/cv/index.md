@@ -59,19 +59,6 @@ showpagemeta = false
 - Eye tracking
 - Machine learning
 - Recommender systems
- 
-## Private interests
-- Sports
-- Guitars
-- Linux, electronics, and 3D printing
-
-## Awards 
-
-Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
-
-<center>
-    <img src="img/neurois.jpg" width="95%">
-</center>
 
 ## Publications 
 Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce". WORK IN PROGRESS
@@ -87,3 +74,17 @@ Weiß, T. and Pfeiffer, J. (2023). "Consumer decisions in virtual commerce: good
 Weiß, T., Kirch, P., Büst, M., Schinder, S. and Pfeiffer, J. (2023). "Eine interdisziplinäre Kooperation in der Hochschullehre mit Hilfe der virtuellen Realität" In: Workshop-Proceedings der DELFI & HDI 2023
 
 Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+
+## Awards 
+
+Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
+
+<center>
+    <img src="img/neurois.jpg" width="95%">
+</center>
+ 
+## Private interests
+- Sports
+- Guitars
+- Linux, electronics, and 3D printing
+
