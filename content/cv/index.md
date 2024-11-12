@@ -69,21 +69,18 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 - Recommender systems
 
 ## My most preferred...
-- AI Tools: Convai, DeepSpeed, Ollama, langchain, LMStudio, Vertex AI
+- AI Tools: ollama, vLLM, langchain, Vertex AI
+- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
 - Cloud: GCP, Kubernetes
-- Configuration management: ansible, puppet, GPOs
 - Databases: Mariadb, Postgres, Influxdb, neo4j
 - HPC tools: slurm, ray 
-- Internet services:DNS, SSH, SMTP, VPN
-- Linux distributions: Arch, Debian, CentOS
-- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
 - Monitoring: Grafana, Icinga, Nagios
 - Natural languages: German, English, Swedish
 - Operating systems: Linux, Windows, FreeBSD
-- Programming languages: Python, C#, R, Java, Javascript
+- Programming languages: Python, C#, Javascript, R
 - Statistics: pymc, pingoui, statsmodels
-- Visualization: seaborn, matplotlib
-- Web servers: apache, nginx, gunicorn, haproxy, spring boot microservices
+- Visualization: seaborn, matplotlib, bokeh, inkscape
+- Web servers: node, apache, nginx, haproxy
  
 ## Private interests
 - Sports
