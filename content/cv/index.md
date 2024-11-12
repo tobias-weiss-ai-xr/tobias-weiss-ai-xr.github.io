@@ -16,6 +16,21 @@ showpagemeta = false
 </center>
 </div>
 
+## Skills
+- Artificial Intelligence: ollama, ComfyUI, vLLM, langchain, Vertex AI, *RAG
+- eXtended Reality: Unity, Unreal, Blender, A-Frame
+- Cloud: GCP, Kubernetes
+- Databases: Mariadb, Postgres, Influxdb, neo4j
+- HPC tools: slurm, ray 
+- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
+- Monitoring: Grafana, Icinga, Nagios
+- Natural languages: German, English, Swedish
+- Operating systems: Linux, Windows, FreeBSD
+- Programming languages: Python, C#, Javascript, R
+- Statistics: pymc, pingoui, statsmodels
+- Visualization: seaborn, matplotlib, bokeh, inkscape
+- Web servers: node, apache, nginx, haproxy
+
 ## Education and working experience
 
 2022--2025: Doctoral researcher, [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
@@ -37,21 +52,6 @@ showpagemeta = false
 2008--2010: IT consultant, e–projecta GmbH, Balingen, 1st-level IT-support.
 
 2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
-
-## Skills
-- Artificial Intelligence: ollama, ComfyUI, vLLM, langchain, Vertex AI, *RAG
-- eXtended Reality: Unity, Unreal, Blender, A-Frame
-- Cloud: GCP, Kubernetes
-- Databases: Mariadb, Postgres, Influxdb, neo4j
-- HPC tools: slurm, ray 
-- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
-- Monitoring: Grafana, Icinga, Nagios
-- Natural languages: German, English, Swedish
-- Operating systems: Linux, Windows, FreeBSD
-- Programming languages: Python, C#, Javascript, R
-- Statistics: pymc, pingoui, statsmodels
-- Visualization: seaborn, matplotlib, bokeh, inkscape
-- Web servers: node, apache, nginx, haproxy
 
 ## Research topics
 - Consumer behavior 
