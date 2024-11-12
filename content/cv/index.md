@@ -40,11 +40,11 @@ showpagemeta = false
 
 ## Skills
 - Artificial Intelligence: ollama, ComfyUI, vLLM, langchain, Vertex AI, *RAG
-- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
 - eXtended Reality: Unity, Unreal, Blender, A-Frame
 - Cloud: GCP, Kubernetes
 - Databases: Mariadb, Postgres, Influxdb, neo4j
 - HPC tools: slurm, ray 
+- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
 - Monitoring: Grafana, Icinga, Nagios
 - Natural languages: German, English, Swedish
 - Operating systems: Linux, Windows, FreeBSD
