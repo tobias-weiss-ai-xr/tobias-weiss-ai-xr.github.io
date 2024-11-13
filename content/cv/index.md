@@ -21,15 +21,15 @@ showpagemeta = false
 - eXtended Reality: Unity, Unreal, Blender, A-Frame
 - Cloud: GCP, Kubernetes
 - Databases: Mariadb, Postgres, Influxdb, neo4j
-- HPC tools: slurm, ray 
+- High Performance Computing: slurm, ray 
 - Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
 - Monitoring: Grafana, Icinga, Nagios
-- Natural languages: German, English, Swedish
+- Natural languages: German (native), English (fluent), French, Swedish
 - Operating systems: Linux, Windows, FreeBSD
 - Programming languages: Python, C#, Javascript, R
 - Statistics: pymc, pingoui, statsmodels
 - Visualization: seaborn, matplotlib, bokeh, inkscape
-- Web servers: node, apache, nginx, haproxy
+- Web servers: apache, node, nginx, haproxy
 
 ## Education and working experience
 
