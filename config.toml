@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://tobiasweede.github.io/" 
+baseurl = "https://tobias-weiss-ai-xr.github.io/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -15,7 +15,7 @@ languageCode = "en-US"
     theme = "tobi-goa"
 
     ## Hugo Built-in Features
-    disqusShortname = "https-tobiasweede-github-io" # Comment out to disable Disqus.
+    disqusShortname = "https-tobias-weiss-ai-xr-github-io" # Comment out to disable Disqus.
     googleAnalytics = "XYZ"
     enableRobotsTXT = true
 
@@ -30,7 +30,7 @@ languageCode = "en-US"
     [params]
     author = "Tobias Weiß"
     intro = "AI & XR enthusiast"
-    description = "@Giessen, DE"
+    description = "@Rhine-Main metropolian area, DE"
     authorimage = "me_thumb.jpeg"
     dateformat = "Jan 2, 2006"
 
