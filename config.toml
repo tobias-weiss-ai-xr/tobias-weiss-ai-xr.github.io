@@ -64,7 +64,7 @@ languageCode = "en-US"
         url = "/cv/"
     [[menu.main]]
         name = "gallery"
-        identifier = "gallery"
+        identifier = "photo gallery"
     weight = 200
     url = "/gallery/"
     [[menu.main]]
