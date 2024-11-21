@@ -63,15 +63,15 @@ languageCode = "en-US"
         weight = 100
         url = "/cv/"
     [[menu.main]]
-        name = "gallery"
-        identifier = "photo gallery"
-    weight = 200
-    url = "/gallery/"
-    [[menu.main]]
         name = "personal story"
         identifier = "personal story"
         weight = 300
         url = "/story/"
+    [[menu.main]]
+        name = "photo gallery"
+        identifier = "gallery"
+    weight = 200
+    url = "/gallery/"
     [[menu.main]]
         name = "pretty good privacy"
         weight = 400
