@@ -65,12 +65,12 @@ languageCode = "en-US"
     [[menu.main]]
         name = "personal story"
         identifier = "personal story"
-        weight = 300
+        weight = 200
         url = "/story/"
     [[menu.main]]
         name = "photo gallery"
         identifier = "gallery"
-    weight = 200
+    weight = 300
     url = "/gallery/"
     [[menu.main]]
         name = "pretty good privacy"
