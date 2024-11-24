@@ -43,13 +43,13 @@ showpagemeta = false
 
 2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
 
-2013: IT administrator, DKMS gGmbH, Tübingen, 2nd-level IT-support.
+2013: IT administrator, 2nd-level IT-support, DKMS gGmbH, Tübingen.
 
-2012: IT administrator, NexMart AG, Stuttgart, 2nd-level IT-support.
+2012: IT administrator, 2nd-level IT-support, NexMart AG, Stuttgart.
 
-2010--2012: IT administrator, SMT Data Communications GmbH, Oberndorf a.N., 1st-level IT-support.
+2010--2012: IT administrator, 1st-level IT-support, SMT Data Communications GmbH, Oberndorf a.N.
 
-2008--2010: IT consultant, e–projecta GmbH, Balingen, 1st-level IT-support.
+2008--2010: IT consultant, 1st-level IT-support, e–projecta GmbH, Balingen.
 
 2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
