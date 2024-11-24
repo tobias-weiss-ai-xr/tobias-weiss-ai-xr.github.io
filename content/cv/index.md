@@ -54,6 +54,7 @@ showpagemeta = false
 2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
 ## Research topics
+- Artificial Intelligence
 - Consumer behavior 
 - eXtended Reality
 - Eye tracking
