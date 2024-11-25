@@ -51,7 +51,7 @@ showpagemeta = false
 
 2008--2010: IT consultant, 1st-level IT-support, e–projecta GmbH, Balingen.
 
-2004--2007: Ausbildung zum IT-Systemkaufmann (Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
+2004--2007: Ausbildung zum IT-Systemkaufmann (Apprentice Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
 ## Research topics
 - Artificial Intelligence
