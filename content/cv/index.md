@@ -31,7 +31,7 @@ showpagemeta = false
 - Visualization: seaborn, matplotlib, bokeh, inkscape
 - Web servers: apache, node, nginx, haproxy
 
-## Education and working experience
+## Professional development
 
 2022--2025: Doctoral researcher, [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
 
@@ -41,7 +41,7 @@ showpagemeta = false
 
 2015--2020: B. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
-2014--2015: Wirtschaftsoberschule - Abitur (eqivalent to A levels), David–Würth Schule, VS-Schwenningen.
+2014--2015: Abitur (A levels), David–Würth Schule, VS-Schwenningen.
 
 2013: IT administrator, 2nd-level IT-support, DKMS gGmbH, Tübingen.
 
@@ -51,7 +51,7 @@ showpagemeta = false
 
 2008--2010: IT consultant, 1st-level IT-support, e–projecta GmbH, Balingen.
 
-2004--2007: Ausbildung zum IT-Systemkaufmann (equivalent to Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
+2004--2007: Ausbildung zum IT-Systemkaufmann (Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
 ## Research topics
 - Artificial Intelligence
