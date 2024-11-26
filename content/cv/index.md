@@ -64,7 +64,9 @@ showpagemeta = false
 ## Publications 
 Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce". WORK IN PROGRESS
 
+<a href="https://www.researchgate.net/publication/385579244_EARLY_BIRD_-_Predict_healthy_product_choices_in_virtual_commerce" target="_blank">
 Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
+</a>
 
 Weiß, T., Meißner, M., and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality". Working paper
 
