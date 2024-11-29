@@ -55,11 +55,11 @@ showpagemeta = false
 
 ## Research topics
 - Artificial Intelligence
-- Consumer behavior 
+- Consumer Behavior 
 - eXtended Reality
-- Eye tracking
-- Machine learning
-- Recommender systems
+- Eye Tracking
+- Machine Learning
+- Recommender Systems
 
 ## Publications 
 <ul>
@@ -120,5 +120,5 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 ## Private interests
 - Sports
 - Guitars
-- Linux, electronics, and 3D printing
+- Linux, Electronics, and 3D Printing
 
