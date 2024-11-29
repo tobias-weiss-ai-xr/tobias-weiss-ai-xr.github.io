@@ -99,7 +99,12 @@ showpagemeta = false
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/386217619_Recommendations_via_Graph_Neural_Networks" target="_blank">
-        Weiß, T. (2021). "Recommendations via Graph Neural Networks" Masterthesis
+        Weiß, T. (2021). "Recommendations via Graph Neural Networks" Master thesis
+        </a>
+    </li>
+    <li>
+        <a href="https://www.researchgate.net/publication/386218816_Ein_metaheuristisches_Losungsverfahren_fur_das_Time_and_Space_constrained_Assembly_Line_Balancing_Problem_vom_Typ_2" target="_blank">
+        Weiß, T. (2020). "Tabu Search for Assembly Line Balancing (TSALB-2)" Bachelor thesis
         </a>
     </li>
 </ul>
