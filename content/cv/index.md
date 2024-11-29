@@ -17,7 +17,7 @@ showpagemeta = false
 </div>
 
 ## Skills
-- Artificial Intelligence: ComfyUI, Foundation Models, ollama, vLLM, langchain, *RAG
+- Artificial Intelligence: ComfyUI, Foundation Models, vLLM, langchain, *RAG
 - eXtended Reality: Unity, Unreal, Blender, A-Frame
 - Cloud: GCP, Kubernetes
 - Databases: Mariadb, Postgres, Influxdb, neo4j
