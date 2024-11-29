@@ -111,7 +111,7 @@ showpagemeta = false
 
 ## Awards 
 
-Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the Technology Acceptance Model (TAM), a recognized model in the Information Systems domain.
+Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" was awarded the Hermann Zemlicka Award for the "most visionary paper" at the [NeuroIS](http://www.neurois.org/) Retreat 2023. This picture shows me shaking hands with Fred Davis who is the inventor of the [Technology Acceptance Model (TAM)](https://de.wikipedia.org/wiki/Technology_Acceptance_Model), a recognized model in the Information Systems domain.
 
 <center>
     <img src="img/neurois.jpg" width="95%">
