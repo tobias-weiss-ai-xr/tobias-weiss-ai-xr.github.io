@@ -120,5 +120,5 @@ Our study "Customer Decision-Making Processes Revisited: Insights from an Eye Tr
 ## Private interests
 - Sports
 - Guitars
-- Linux, Electronics, and 3D Printing
+- 3D printing
 
