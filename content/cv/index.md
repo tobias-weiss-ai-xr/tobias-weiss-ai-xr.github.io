@@ -28,7 +28,7 @@ showpagemeta = false
 - Operating systems: Linux, Windows, FreeBSD
 - Programming languages: Python, C#, Javascript, R
 - Statistics: pymc, pingoui, statsmodels
-- Visualization: seaborn, matplotlib, bokeh, inkscape
+- Visualization: bokeh, krita, gimp, Inkscape, matplotlib, seaborn, 
 - Web servers: apache, node, nginx, haproxy
 
 ## Professional development
