@@ -98,7 +98,7 @@ showpagemeta = false
         </a>
     </li>
     <li>
-        <a href="https://www.researchgate.net/publication/382582907_Customer_Decision-Making_Processes_Revisited_Insights_from_an_Eye_Tracking_and_ECG_Study_Using_a_Hidden_Markov_Model" target="_blank">
+        <a href="https://www.researchgate.net/publication/386217619_Recommendations_via_Graph_Neural_Networks" target="_blank">
         Weiß, T. (2021). "Recommendations via Graph Neural Networks" Masterthesis
         </a>
     </li>
