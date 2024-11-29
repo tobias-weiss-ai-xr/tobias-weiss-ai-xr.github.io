@@ -64,24 +64,24 @@ showpagemeta = false
 ## Publications 
 <ul>
     <li>
-        Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce". WORK IN PROGRESS
+        Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce" WORK IN PROGRESS
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/385579244_EARLY_BIRD_-_Predict_healthy_product_choices_in_virtual_commerce" target="_blank">
-        Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load". Journal of Neuroscience, Psychology, and Economics
+        Weiß, T. and Pfeiffer, J. (2024). "Consumer Decisions in Virtual Commerce: Predict Good Help-timing based on Cognitive Load" Journal of Neuroscience, Psychology, and Economics
         </a>
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/381325010_Consumer_Decisions_in_Virtual_Commerce_Predict_Good_Help-Timing_Based_on_Cognitive_Load" target="_blank">
-        Weiss, T., Pfeiffer, J., & Pfeiffer, T. (2024). Early Bird-Predict healthy product choices in virtual commerce. ECIS 2024 Proceedings. 3.
+        Weiss, T., Pfeiffer, J., & Pfeiffer, T. (2024). "Early Bird-Predict healthy product choices in virtual commerce" ECIS 2024 Proceedings. 3.
         </a>
     </li>
     <li>
-        Weiß, T., Meißner, M., and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality". Working paper
+        Weiß, T., Meißner, M., and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality" Working paper
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/385574617_Lab_linking_Real_agents_in_virtual_commerce" target="_blank">
-        Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "Real agents in virtual commerce". Working paper
+        Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "Real agents in virtual commerce" Working paper
         </a>
     </li>
     <li>
@@ -94,7 +94,12 @@ showpagemeta = false
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/382582907_Customer_Decision-Making_Processes_Revisited_Insights_from_an_Eye_Tracking_and_ECG_Study_Using_a_Hidden_Markov_Model" target="_blank">
-        Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model." Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+        Weiß, T., Merkl, L. and Pfeiffer, J. (2023). "Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model" Information Systems and Neuroscience: NeuroIS Retreat 2023. Cham: Springer International Publishing
+        </a>
+    </li>
+    <li>
+        <a href="https://www.researchgate.net/publication/382582907_Customer_Decision-Making_Processes_Revisited_Insights_from_an_Eye_Tracking_and_ECG_Study_Using_a_Hidden_Markov_Model" target="_blank">
+        Weiß, T. (2021). "Recommendations via Graph Neural Networks" Masterthesis
         </a>
     </li>
 </ul>
