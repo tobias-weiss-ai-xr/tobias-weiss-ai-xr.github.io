@@ -33,7 +33,7 @@ showpagemeta = false
 
 ## Professional development
 
-2022--2025: Doctoral researcher, [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
+2022--2025: Wissenschaftlicher Mitarbeiter (Doctoral Researcher), [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
 
 2020--2022: M. Sc. Wirtschaftsinformatik (Infomation Systems), Friedrich-Schiller University, Jena.
 
