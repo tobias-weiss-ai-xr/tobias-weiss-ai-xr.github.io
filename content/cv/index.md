@@ -64,7 +64,9 @@ showpagemeta = false
 ## Publications 
 <ul>
     <li>
-        Weiß, T. and Pfeiffer, J. (2024). "AI agents in virtual commerce" WORK IN PROGRESS
+        <a href="https://www.researchsquare.com/article/rs-5589494/v1" target="_blank">
+        Weiß, T. and Pfeiffer, J. (2024). "Interference Timing of GenAI Sales Agents in Virtual Reality" Preprint
+        </a>
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/385579244_EARLY_BIRD_-_Predict_healthy_product_choices_in_virtual_commerce" target="_blank">
@@ -81,7 +83,7 @@ showpagemeta = false
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/385574617_Lab_linking_Real_agents_in_virtual_commerce" target="_blank">
-        Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "Real agents in virtual commerce" Working paper
+        Weiß, T., Eilks, A., Putze, F., Pfeiffer, J., and Schultz, T. (2024). "Real agents in virtual commerce" Preprint
         </a>
     </li>
     <li>
