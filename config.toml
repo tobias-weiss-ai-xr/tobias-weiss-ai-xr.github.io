@@ -42,7 +42,7 @@ languageCode = "en-US"
     ## Social Accounts
     [params.social]
     github = "tobias-weiss-ai-xr"
-    instagram = "tobias_weiss_ai_xr"
+    #instagram = "tobias_weiss_ai_xr"
     linkedin = "tobias-weiss-ai-xr"
     #twitter = "<username>"
     #facebook = "<username>"

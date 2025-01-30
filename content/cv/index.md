@@ -16,21 +16,6 @@ showpagemeta = false
 </center>
 </div>
 
-## Skills
-- Artificial Intelligence: ComfyUI, Foundation Models, vLLM, langchain, *RAG
-- eXtended Reality: Unity, Unreal, Blender, A-Frame
-- Cloud: GCP, Kubernetes
-- Databases: Mariadb, Postgres, Influxdb, neo4j
-- High Performance Computing: slurm, ray 
-- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
-- Monitoring: Grafana, Icinga, Nagios
-- Natural languages: German (native), English (fluent), French, Swedish
-- Operating systems: Linux, Windows, FreeBSD
-- Programming languages: Python, C#, Javascript, R
-- Statistics: pymc, pingoui, statsmodels
-- Visualization: bokeh, krita, gimp, Inkscape, matplotlib, seaborn, 
-- Web servers: apache, node, nginx, haproxy
-
 ## Professional development
 
 2022--2025: Wissenschaftlicher Mitarbeiter (Doctoral Researcher), [kd2school](https://www.kd2school.info) graduate college member, Justus-Liebig University, Giessen.
@@ -53,13 +38,20 @@ showpagemeta = false
 
 2004--2007: Ausbildung zum IT-Systemkaufmann (Apprentice Management Assistant for IT-Systems), Deutsche Telekom AG, Rottweil.
 
-## Research topics
-- Artificial Intelligence
-- Consumer Behavior 
-- eXtended Reality
-- Eye Tracking
-- Machine Learning
-- Recommender Systems
+## Skills
+- Artificial Intelligence: ComfyUI, Foundation Models, vLLM, langchain, *RAG
+- eXtended Reality: Unity, Unreal, Blender, A-Frame
+- Cloud: GCP, Kubernetes
+- Databases: Mariadb, Postgres, Influxdb, neo4j
+- High Performance Computing: slurm, ray 
+- Machine Learning: imblearn, scikit-learn, sktime, pytorch, tensorflow
+- Monitoring: Grafana, Icinga, Nagios
+- Natural languages: German (native), English (fluent), French, Swedish
+- Operating systems: Linux, Windows, FreeBSD
+- Programming languages: Python, C#, Javascript, R
+- Statistics: pymc, pingoui, statsmodels
+- Visualization: bokeh, krita, gimp, Inkscape, matplotlib, seaborn, 
+- Web servers: apache, node, nginx, haproxy
 
 ## Publications 
 <ul>
@@ -77,9 +69,6 @@ showpagemeta = false
         <a href="https://www.researchgate.net/publication/381325010_Consumer_Decisions_in_Virtual_Commerce_Predict_Good_Help-Timing_Based_on_Cognitive_Load" target="_blank">
         Weiss, T., Pfeiffer, J., & Pfeiffer, T. (2024). "EARLY BIRD - Predict healthy product choices in virtual commerce" ECIS 2024 Proceedings. 3.
         </a>
-    </li>
-    <li>
-        Weiß, T., Meißner, M., and Pfeiffer, J. (2024). "Adaptive User Assistance in Virtual Reality" Working paper
     </li>
     <li>
         <a href="https://www.researchgate.net/publication/385574617_Lab_linking_Real_agents_in_virtual_commerce" target="_blank">
@@ -113,16 +102,7 @@ showpagemeta = false
     </li>
 </ul>
 
-## Awards 
-
-Our study <a href="https://www.researchgate.net/publication/382582907_Customer_Decision-Making_Processes_Revisited_Insights_from_an_Eye_Tracking_and_ECG_Study_Using_a_Hidden_Markov_Model" target="_blank">"Customer Decision-Making Processes Revisited: Insights from an Eye Tracking and ECG Study using a Hidden Markov Model"</a> was awarded the Hermann Zemlicka Award for the "most visionary paper" at the <a href="http://www.neurois.org/" target="_blank">NeuroIS Retreat 2023</a>. This picture shows me shaking hands with Fred Davis who is the inventor of the <a href="https://de.wikipedia.org/wiki/Technology_Acceptance_Model" target="_blank">Technology Acceptance Model (TAM)</a>, a recognized model in the Information Systems domain.
-
-<center>
-    <img src="img/neurois.jpg" width="95%">
-</center>
- 
 ## Private interests
 - Sports
 - Guitars
 - 3D printing
-
