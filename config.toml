@@ -57,16 +57,16 @@ languageCode = "en-US"
     hightlightjs = true
 
     ## Main Menu
-    [[menu.main]]
-        name = "curriculum vitae"
-        identifier = "cv"
-        weight = 100
-        url = "/cv/"
-    [[menu.main]]
-        name = "personal story"
-        identifier = "personal story"
-        weight = 200
-        url = "/story/"
+    #[[menu.main]]
+    #    name = "curriculum vitae"
+    #    identifier = "cv"
+    #    weight = 100
+    #    url = "/cv/"
+    #[[menu.main]]
+    #    name = "personal story"
+    #    identifier = "personal story"
+    #    weight = 200
+    #    url = "/story/"
     [[menu.main]]
         name = "photo gallery"
         identifier = "gallery"
