@@ -30,7 +30,7 @@ languageCode = "en-US"
     [params]
     author = "Tobias Weiß"
     intro = "AI & XR enthusiast"
-    description = "@Giessen, DE"
+    description = ""
     authorimage = "me_thumb.jpeg"
     dateformat = "Jan 2, 2006"
 
