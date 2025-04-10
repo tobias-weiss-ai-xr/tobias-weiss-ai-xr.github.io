@@ -29,7 +29,7 @@ languageCode = "en-US"
     ## Site Settings
     [params]
     author = "Tobias Weiß"
-    intro = "AI & XR enthusiast"
+    intro = ""
     description = ""
     authorimage = "me_thumb.jpeg"
     dateformat = "Jan 2, 2006"
@@ -41,9 +41,9 @@ languageCode = "en-US"
 
     ## Social Accounts
     [params.social]
-    github = "tobias-weiss-ai-xr"
+    #github = "tobias-weiss-ai-xr"
     #instagram = "tobias_weiss_ai_xr"
-    linkedin = "tobias-weiss-ai-xr"
+    #linkedin = "tobias-weiss-ai-xr"
     #twitter = "<username>"
     #facebook = "<username>"
     #google = "<username>"
