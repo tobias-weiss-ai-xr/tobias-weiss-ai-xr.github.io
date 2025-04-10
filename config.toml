@@ -28,7 +28,7 @@ languageCode = "en-US"
 
     ## Site Settings
     [params]
-    author = "Tobias Weiß"
+    author = "Tobias Weiss"
     intro = ""
     description = ""
     authorimage = "me_wanted_big.png"
