@@ -31,7 +31,7 @@ languageCode = "en-US"
     author = "Tobias Weiß"
     intro = ""
     description = ""
-    authorimage = "me_wanted_big.jpeg"
+    authorimage = "me_wanted_big.png"
     dateformat = "Jan 2, 2006"
 
     ## Site Meta Settings
